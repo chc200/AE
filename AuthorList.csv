@@ -1,0 +1,1603 @@
+Interactive tag cloud visualization of software version control repositories,Greene, Gillian J
+Interactive tag cloud visualization of software version control repositories,Fischer, Bernd
+Hierarchical software landscape visualization for system comprehension: A controlled experiment,Fittkau, Florian
+Hierarchical software landscape visualization for system comprehension: A controlled experiment,Krause, Alexander
+Hierarchical software landscape visualization for system comprehension: A controlled experiment,Hasselbring, Wilhelm
+Visualizing the Evolution of Working Sets,Minelli, Roberto
+Visualizing the Evolution of Working Sets,Mocci, Andrea
+Visualizing the Evolution of Working Sets,Lanza, Michele
+Jsvee & Kelmu: Creating and Tailoring Program Animations for Computing Education,"Sirki{\""a}", Teemu
+Towards Visualization of Feature Interactions in Software Product Lines,Illescas, Sheny
+Towards Visualization of Feature Interactions in Software Product Lines,Lopez-Herrejon, Roberto E
+Towards Visualization of Feature Interactions in Software Product Lines,Egyed, Alexander
+Walls  Pillars and Beams: A 3D Decomposition of Quality Anomalies,Tymchuk, Yuriy
+Walls  Pillars and Beams: A 3D Decomposition of Quality Anomalies,Merino, Leonel
+Walls  Pillars and Beams: A 3D Decomposition of Quality Anomalies,Ghafari, Mohammad
+Walls  Pillars and Beams: A 3D Decomposition of Quality Anomalies,Nierstrasz, Oscar
+CuboidMatrix: Exploring Dynamic Structural Connections in Software Components Using Space-Time Cube,Schneider, Teseo
+CuboidMatrix: Exploring Dynamic Structural Connections in Software Components Using Space-Time Cube,Tymchuk, Yuriy
+CuboidMatrix: Exploring Dynamic Structural Connections in Software Components Using Space-Time Cube,Salgado, Ronie
+CuboidMatrix: Exploring Dynamic Structural Connections in Software Components Using Space-Time Cube,Bergel, Alexandre
+Cache-oblivious wavefront: improving parallelism of recursive dynamic programming algorithms without losing cache-efficiency,Tang, Yuan
+Cache-oblivious wavefront: improving parallelism of recursive dynamic programming algorithms without losing cache-efficiency,You, Ronghui
+Cache-oblivious wavefront: improving parallelism of recursive dynamic programming algorithms without losing cache-efficiency,Kan, Haibin
+Cache-oblivious wavefront: improving parallelism of recursive dynamic programming algorithms without losing cache-efficiency,Tithi, Jesmin Jahan
+Cache-oblivious wavefront: improving parallelism of recursive dynamic programming algorithms without losing cache-efficiency,Ganapathi, Pramod
+Cache-oblivious wavefront: improving parallelism of recursive dynamic programming algorithms without losing cache-efficiency,Chowdhury, Rezaul A
+Dynamic deadlock verification for general barrier synchronisation,Cogumbreiro, Tiago
+Dynamic deadlock verification for general barrier synchronisation,Hu, Raymond
+Dynamic deadlock verification for general barrier synchronisation,Martins, Francisco
+Dynamic deadlock verification for general barrier synchronisation,Yoshida, Nobuko
+Low-overhead software transactional memory with progress guarantees and strong semantics,Zhang, Minjia
+Low-overhead software transactional memory with progress guarantees and strong semantics,Huang, Jipeng
+Low-overhead software transactional memory with progress guarantees and strong semantics,Cao, Man
+Low-overhead software transactional memory with progress guarantees and strong semantics,Bond, Michael D
+More than you ever wanted to know about synchronization: synchrobench  measuring the impact of the synchronization on concurrent algorithms,Gramoli, Vincent
+NUMA-aware graph-structured analytics,Zhang, Kaiyuan
+NUMA-aware graph-structured analytics,Chen, Rong
+NUMA-aware graph-structured analytics,Chen, Haibo
+Performance implications of dynamic memory allocators on transactional memory systems,Baldassin, Alexandro
+Performance implications of dynamic memory allocators on transactional memory systems,Borin, Edson
+Performance implications of dynamic memory allocators on transactional memory systems,Araujo, Guido
+Predicate RCU: an RCU for scalable concurrent updates,Arbel, Maya
+Predicate RCU: an RCU for scalable concurrent updates,Morrison, Adam
+Scalable and efficient implementation of 3d unstructured meshes computation: a case study on matrix assembly,Th{\'e}bault," Lo{\""\i}c"
+Scalable and efficient implementation of 3d unstructured meshes computation: a case study on matrix assembly,Petit, Eric
+Scalable and efficient implementation of 3d unstructured meshes computation: a case study on matrix assembly,Dinh, Quang
+The SprayList: a scalable relaxed priority queue,Alistarh, Dan
+The SprayList: a scalable relaxed priority queue,Kopinsky, Justin
+The SprayList: a scalable relaxed priority queue,Li, Jerry
+The SprayList: a scalable relaxed priority queue,Shavit, Nir
+VirtCL: a framework for OpenCL device abstraction and management,You, Yi-Ping
+VirtCL: a framework for OpenCL device abstraction and management,Wu, Hen-Jung
+VirtCL: a framework for OpenCL device abstraction and management,Tsai, Yeh-Ning
+VirtCL: a framework for OpenCL device abstraction and management,Chao, Yen-Ting
+Drinking from both glasses combining pessimistic and optimistic tracking of cross-thread dependences,Cao, Man
+Drinking from both glasses combining pessimistic and optimistic tracking of cross-thread dependences,Zhang, Minjia
+Drinking from both glasses combining pessimistic and optimistic tracking of cross-thread dependences,Sengupta, Aritra
+Drinking from both glasses combining pessimistic and optimistic tracking of cross-thread dependences,Bond, Michael D
+Gunrock a high-performance graph processing library on the GPU,Wang, Yangzihao
+Gunrock a high-performance graph processing library on the GPU,Davidson, Andrew
+Gunrock a high-performance graph processing library on the GPU,Pan, Yuechao
+Gunrock a high-performance graph processing library on the GPU,Wu, Yuduo
+Gunrock a high-performance graph processing library on the GPU,Riffel, Andy
+Gunrock a high-performance graph processing library on the GPU,Owens, John D
+Optimistic concurrency with OPTIK,Guerraoui, Rachid
+Optimistic concurrency with OPTIK,Trigonakis, Vasileios
+Keep calm and react with foresight strategies for low-latency and energy-efficient elastic data stream processing,De Matteis, Tiziano
+Keep calm and react with foresight strategies for low-latency and energy-efficient elastic data stream processing,Mencagli, Gabriele
+Production-guided concurrency debugging,Machado, Nuno
+Production-guided concurrency debugging,Lucia, Brandon
+Production-guided concurrency debugging,Rodrigues, Lu{\'\i}s
+Declarative coordination of graph-based parallel programs,Cruz, Flavio
+Declarative coordination of graph-based parallel programs,Rocha, Ricardo
+Declarative coordination of graph-based parallel programs,Goldstein, Seth Copen
+Be my guest MCS lock now welcomes guests,Wang, Tianzheng
+Be my guest MCS lock now welcomes guests,Chabbi, Milind
+Be my guest MCS lock now welcomes guests,Kimura, Hideaki
+Multi-core on-the-fly SCC decomposition,Bloemen, Vincent
+Multi-core on-the-fly SCC decomposition,Laarman, Alfons
+Multi-core on-the-fly SCC decomposition,van de Pol, Jaco
+DomLock a new multi-granularity locking technique for hierarchies,Kalikar, Saurabh
+DomLock a new multi-granularity locking technique for hierarchies,Nasre, Rupesh
+The virtues of conflict analysing modern concurrency,Narayanaswamy, Ganesh
+The virtues of conflict analysing modern concurrency,Joshi, Saurabh
+The virtues of conflict analysing modern concurrency,Kroening, Daniel
+AUTOGEN automatic discovery of cache-oblivious parallel recursive algorithms for solving dynamic programs,Chowdhury, Rezaul
+AUTOGEN automatic discovery of cache-oblivious parallel recursive algorithms for solving dynamic programs,Ganapathi, Pramod
+AUTOGEN automatic discovery of cache-oblivious parallel recursive algorithms for solving dynamic programs,Tithi, Jesmin Jahan
+AUTOGEN automatic discovery of cache-oblivious parallel recursive algorithms for solving dynamic programs,Bachmeier, Charles
+AUTOGEN automatic discovery of cache-oblivious parallel recursive algorithms for solving dynamic programs,Kuszmaul, Bradley C
+AUTOGEN automatic discovery of cache-oblivious parallel recursive algorithms for solving dynamic programs,Leiserson, Charles E
+AUTOGEN automatic discovery of cache-oblivious parallel recursive algorithms for solving dynamic programs,Solar-Lezama, Armando
+AUTOGEN automatic discovery of cache-oblivious parallel recursive algorithms for solving dynamic programs,Tang, Yuan
+A wait-free queue as fast as fetch-and-add,Yang, Chaoran
+A wait-free queue as fast as fetch-and-add,Mellor-Crummey, John
+A Calculus for Relaxed Memory,Crary, Karl
+A Calculus for Relaxed Memory,Sullivan, Michael J
+A Coalgebraic Decision Procedure for NetKAT,Foster, Nate
+A Coalgebraic Decision Procedure for NetKAT,Kozen, Dexter
+A Coalgebraic Decision Procedure for NetKAT,Milano, Matthew
+A Coalgebraic Decision Procedure for NetKAT,Silva, Alexandra
+A Coalgebraic Decision Procedure for NetKAT,Thompson, Laure
+A Scalable  Correct Time-Stamped Stack,Dodds, Mike
+A Scalable  Correct Time-Stamped Stack,Haas, Andreas
+A Scalable  Correct Time-Stamped Stack,Kirsch, Christoph M
+Common Compiler Optimisations are Invalid in the C11 Memory Model and what we can do about it,Vafeiadis, Viktor
+Common Compiler Optimisations are Invalid in the C11 Memory Model and what we can do about it,Balabonski, Thibaut
+Common Compiler Optimisations are Invalid in the C11 Memory Model and what we can do about it,Chakraborty, Soham
+Common Compiler Optimisations are Invalid in the C11 Memory Model and what we can do about it,Morisset, Robin
+Common Compiler Optimisations are Invalid in the C11 Memory Model and what we can do about it,Zappa Nardelli, Francesco
+Compositional CompCert,Stewart, Gordon
+Compositional CompCert,Beringer, Lennart
+Compositional CompCert,Cuellar, Santiago
+Compositional CompCert,Appel, Andrew W
+Deep Specifications and Certified Abstraction Layers,Gu, Ronghui
+Deep Specifications and Certified Abstraction Layers,Koenig, J{\'e}r{\'e}mie
+Deep Specifications and Certified Abstraction Layers,Ramananandro, Tahina
+Deep Specifications and Certified Abstraction Layers,Shao, Zhong
+Deep Specifications and Certified Abstraction Layers,Wu, Xiongnan Newman
+Deep Specifications and Certified Abstraction Layers,Weng, Shu-Chun
+Deep Specifications and Certified Abstraction Layers,Zhang, Haozhong
+Deep Specifications and Certified Abstraction Layers,Guo, Yu
+DReX A Declarative Language for Efficiently Evaluating Regular String Transformations,Alur, Rajeev
+DReX A Declarative Language for Efficiently Evaluating Regular String Transformations,D'Antoni, Loris
+DReX A Declarative Language for Efficiently Evaluating Regular String Transformations,Raghothaman, Mukund
+From Communicating Machines to Graphical Choreographies,Lange, Julien
+From Communicating Machines to Graphical Choreographies,Tuosto, Emilio
+From Communicating Machines to Graphical Choreographies,Yoshida, Nobuko
+From Network Interface to Multithreaded Web Applications A Case Study in Modular Program Verification,Chlipala, Adam
+Higher Inductive Types as Homotopy-Initial Algebras,Sojakova, Kristina
+Integrating Linear and Dependent Types,Krishnaswami, Neelakantan R
+Integrating Linear and Dependent Types,Pradic, Pierre
+Integrating Linear and Dependent Types,Benton, Nick
+Iris Monoids and Invariants as an Orthogonal Basis for Concurrent Reasoning,Jung, Ralf
+Iris Monoids and Invariants as an Orthogonal Basis for Concurrent Reasoning,Swasey, David
+Iris Monoids and Invariants as an Orthogonal Basis for Concurrent Reasoning,Sieczkowski, Filip
+Iris Monoids and Invariants as an Orthogonal Basis for Concurrent Reasoning,Svendsen, Kasper
+Iris Monoids and Invariants as an Orthogonal Basis for Concurrent Reasoning,Turon, Aaron
+Iris Monoids and Invariants as an Orthogonal Basis for Concurrent Reasoning,Birkedal, Lars
+Iris Monoids and Invariants as an Orthogonal Basis for Concurrent Reasoning,Dreyer, Derek
+K-Java A Complete Semantics of Java,Bogdanas, Denis
+K-Java A Complete Semantics of Java,Ro{\c{s}}u, Grigore
+Manifest Contracts for Datatypes,Sekiyama, Taro
+Manifest Contracts for Datatypes,Nishida, Yuki
+Manifest Contracts for Datatypes,Igarashi, Atsushi
+Polymorphic Functions with Set-Theoretic Types Part 2: Local Type Inference and Type Reconstruction,Castagna, Giuseppe
+Polymorphic Functions with Set-Theoretic Types Part 2: Local Type Inference and Type Reconstruction,Nguyen, Kim
+Polymorphic Functions with Set-Theoretic Types Part 2: Local Type Inference and Type Reconstruction,Xu, Zhiwu
+Polymorphic Functions with Set-Theoretic Types Part 2: Local Type Inference and Type Reconstruction,Abate, Pietro
+"Predicting Program Properties from ""Big Code""",Raychev, Veselin
+"Predicting Program Properties from ""Big Code""",Vechev, Martin
+"Predicting Program Properties from ""Big Code""",Krause, Andreas
+Programming up to Congruence,"Sj{\""o}berg", Vilhelm
+Programming up to Congruence,Weirich, Stephanie
+Quantitative Interprocedural Analysis,Chatterjee, Krishnendu
+Quantitative Interprocedural Analysis,Pavlogiannis, Andreas
+Quantitative Interprocedural Analysis,Velner, Yaron
+Safe & Efficient Gradual Typing for TypeScript,Rastogi, Aseem
+Safe & Efficient Gradual Typing for TypeScript,Swamy, Nikhil
+Safe & Efficient Gradual Typing for TypeScript,Fournet, C{\'e}dric
+Safe & Efficient Gradual Typing for TypeScript,Bierman, Gavin
+Safe & Efficient Gradual Typing for TypeScript,Vekris, Panagiotis
+Self-Representation in Girard's System U,Brown, Matt
+Self-Representation in Girard's System U,Palsberg, Jens
+Sound Modular Verification of C Code Executing in an Unverified Context,Agten, Pieter
+Sound Modular Verification of C Code Executing in an Unverified Context,Jacobs, Bart
+Sound Modular Verification of C Code Executing in an Unverified Context,Piessens, Frank
+Succinct Representation of Concurrent Trace Sets,Gupta, Ashutosh
+Succinct Representation of Concurrent Trace Sets,Henzinger, Thomas A
+Succinct Representation of Concurrent Trace Sets,Radhakrishna, Arjun
+Succinct Representation of Concurrent Trace Sets,Samanta, Roopsha
+Succinct Representation of Concurrent Trace Sets,Tarrach, Thorsten
+Symbolic Algorithms for Language Equivalence and Kleene Algebra with Tests,Pous, Damien
+Ur/Web A Simple Model for Programming the Web,Chlipala, Adam
+Summary-Based Context-Sensitive Data-Dependence Analysis in Presence of Callbacks,Tang, Hao
+Summary-Based Context-Sensitive Data-Dependence Analysis in Presence of Callbacks,Wang, Xiaoyin
+Summary-Based Context-Sensitive Data-Dependence Analysis in Presence of Callbacks,Zhang, Lingming
+Summary-Based Context-Sensitive Data-Dependence Analysis in Presence of Callbacks,Xie, Bing
+Summary-Based Context-Sensitive Data-Dependence Analysis in Presence of Callbacks,Zhang, Lu
+Summary-Based Context-Sensitive Data-Dependence Analysis in Presence of Callbacks,Mei, Hong
+Higher-Order Approximate Relational Refinement Types for Mechanism Design and Differential Privacy,Barthe, Gilles
+Higher-Order Approximate Relational Refinement Types for Mechanism Design and Differential Privacy,Gaboardi, Marco
+Higher-Order Approximate Relational Refinement Types for Mechanism Design and Differential Privacy,Gallego Arias, Emilio Jes{\'u}s
+Higher-Order Approximate Relational Refinement Types for Mechanism Design and Differential Privacy,Hsu, Justin
+Higher-Order Approximate Relational Refinement Types for Mechanism Design and Differential Privacy,Roth, Aaron
+Higher-Order Approximate Relational Refinement Types for Mechanism Design and Differential Privacy,Strub, Pierre-Yves
+A Formally-Verified C Static Analyzer,Jourdan, Jacques-Henri
+A Formally-Verified C Static Analyzer,Laporte, Vincent
+A Formally-Verified C Static Analyzer,Blazy, Sandrine
+A Formally-Verified C Static Analyzer,Leroy, Xavier
+A Formally-Verified C Static Analyzer,Pichardie, David
+Automatic patch generation by learning correct code,Long, Fan
+Automatic patch generation by learning correct code,Rinard, Martin
+Binding as sets of scopes,Flatt, Matthew
+Breaking through the normalization barrier: a self-interpreter for f-omega,Brown, Matt
+Breaking through the normalization barrier: a self-interpreter for f-omega,Palsberg, Jens
+Chapar: certified causally consistent distributed key-value stores,Lesani, Mohsen
+Chapar: certified causally consistent distributed key-value stores,Bell, Christian J
+Chapar: certified causally consistent distributed key-value stores,Chlipala, Adam
+Dependent types and multi-monadic effects in F*,Swamy, Nikhil
+Dependent types and multi-monadic effects in F*,Hri{\c{t}}cu, C{\u{a}}t{\u{a}}lin
+Dependent types and multi-monadic effects in F*,Keller, Chantal
+Dependent types and multi-monadic effects in F*,Rastogi, Aseem
+Dependent types and multi-monadic effects in F*,Delignat-Lavaud, Antoine
+Dependent types and multi-monadic effects in F*,Forest, Simon
+Dependent types and multi-monadic effects in F*,Bhargavan, Karthikeyan
+Dependent types and multi-monadic effects in F*,Fournet, C{\'e}dric
+Dependent types and multi-monadic effects in F*,Strub, Pierre-Yves
+Dependent types and multi-monadic effects in F*,Kohlweiss, Markulf
+Dependent types and multi-monadic effects in F*,others,
+Effects as sessions  sessions as effects,Orchard, Dominic
+Effects as sessions  sessions as effects,Yoshida, Nobuko
+Estimating types in binaries using predictive modeling,Katz, Omer
+Estimating types in binaries using predictive modeling,El-Yaniv, Ran
+Estimating types in binaries using predictive modeling,Yahav, Eran
+Example-directed synthesis: a type-theoretic interpretation,Frankle, Jonathan
+Example-directed synthesis: a type-theoretic interpretation,Osera, Peter-Michael
+Example-directed synthesis: a type-theoretic interpretation,Walker, David
+Example-directed synthesis: a type-theoretic interpretation,Zdancewic, Steve
+Is sound gradual typing dead?,Takikawa, Asumu
+Is sound gradual typing dead?,Feltey, Daniel
+Is sound gradual typing dead?,Greenman, Ben
+Is sound gradual typing dead?,New, Max S
+Is sound gradual typing dead?,Vitek, Jan
+Is sound gradual typing dead?,Felleisen, Matthias
+Kleenex: compiling nondeterministic transducers to deterministic streaming transducers,Grathwohl, Bj{\o}rn Bugge
+Kleenex: compiling nondeterministic transducers to deterministic streaming transducers,Henglein, Fritz
+Kleenex: compiling nondeterministic transducers to deterministic streaming transducers,Rasmussen, Ulrik Terp
+Kleenex: compiling nondeterministic transducers to deterministic streaming transducers,S{\o}holm, Kristoffer Aalund
+Kleenex: compiling nondeterministic transducers to deterministic streaming transducers,T{\o}rholm, Sebastian Paaske
+Learning invariants using decision trees and implication counterexamples,Garg, Pranav
+Learning invariants using decision trees and implication counterexamples,Neider, Daniel
+Learning invariants using decision trees and implication counterexamples,Madhusudan, Parthasarathy
+Learning invariants using decision trees and implication counterexamples,Roth, Dan
+Lightweight verification of separate compilation,Kang, Jeehoon
+Lightweight verification of separate compilation,Kim, Yoonseung
+Lightweight verification of separate compilation,Hur, Chung-Kil
+Lightweight verification of separate compilation,Dreyer, Derek
+Lightweight verification of separate compilation,Vafeiadis, Viktor
+Model checking for symbolic-heap separation logic with inductive predicates,Brotherston, James
+Model checking for symbolic-heap separation logic with inductive predicates,Gorogiannis, Nikos
+Model checking for symbolic-heap separation logic with inductive predicates,Kanovich, Max
+Model checking for symbolic-heap separation logic with inductive predicates,Rowe, Reuben
+Optimizing synthesis with metasketches,Bornholt, James
+Optimizing synthesis with metasketches,Torlak, Emina
+Optimizing synthesis with metasketches,Grossman, Dan
+Optimizing synthesis with metasketches,Ceze, Luis
+Overhauling SC atomics in c11 and OpenCL,Batty, Mark
+Overhauling SC atomics in c11 and OpenCL,Donaldson, Alastair F
+Overhauling SC atomics in c11 and OpenCL,Wickerson, John
+Printing floating-point numbers: a faster  always correct method,Andrysco, Marc
+Printing floating-point numbers: a faster  always correct method,Jhala, Ranjit
+Printing floating-point numbers: a faster  always correct method,Lerner, Sorin
+PSync: a partially synchronous language for fault-tolerant distributed algorithms,Dr{\u{a}}goi, Cezara
+PSync: a partially synchronous language for fault-tolerant distributed algorithms,Henzinger, Thomas A
+PSync: a partially synchronous language for fault-tolerant distributed algorithms,Zufferey, Damien
+Pushdown control-flow analysis for free,Gilray, Thomas
+Pushdown control-flow analysis for free,Lyde, Steven
+Pushdown control-flow analysis for free,Adams, Michael D
+Pushdown control-flow analysis for free,Might, Matthew
+Pushdown control-flow analysis for free,Van Horn, David
+Symbolic abstract data type inference,Emmi, Michael
+Symbolic abstract data type inference,Enea, Constantin
+Symbolic computation of differential equivalences,Cardelli, Luca
+Symbolic computation of differential equivalences,Tribastone, Mirco
+Symbolic computation of differential equivalences,Tschaikowski, Max
+Symbolic computation of differential equivalences,Vandin, Andrea
+Taming release-acquire consistency,Lahav, Ori
+Taming release-acquire consistency,Giannarakis, Nick
+Taming release-acquire consistency,Vafeiadis, Viktor
+Type theory in type theory using quotient inductive types,Altenkirch, Thorsten
+Type theory in type theory using quotient inductive types,Kaposi, Ambrus
+A theory of changes for higher-order languages incrementalizing ?-calculi by static differentiation,Cai, Yufei
+A theory of changes for higher-order languages incrementalizing ?-calculi by static differentiation,Giarrusso, Paolo G
+A theory of changes for higher-order languages incrementalizing ?-calculi by static differentiation,Rendel, Tillmann
+A theory of changes for higher-order languages incrementalizing ?-calculi by static differentiation,Ostermann, Klaus
+Adapton composable  demand-driven incremental computation,Hammer, Matthew A
+Adapton composable  demand-driven incremental computation,Phang, Khoo Yit
+Adapton composable  demand-driven incremental computation,Hicks, Michael
+Adapton composable  demand-driven incremental computation,Foster, Jeffrey S
+Don't sweat the small stuff formal verification of C code without the pain,Greenaway, David
+Don't sweat the small stuff formal verification of C code without the pain,Lim, Japheth
+Don't sweat the small stuff formal verification of C code without the pain,Andronick, June
+Don't sweat the small stuff formal verification of C code without the pain,Klein, Gerwin
+DoubleChecker efficient sound and precise atomicity checking,Biswas, Swarnendu
+DoubleChecker efficient sound and precise atomicity checking,Huang, Jipeng
+DoubleChecker efficient sound and precise atomicity checking,Sengupta, Aritra
+DoubleChecker efficient sound and precise atomicity checking,Bond, Michael D
+End-to-end verification of stack-space bounds for C programs,Carbonneaux, Quentin
+End-to-end verification of stack-space bounds for C programs,Hoffmann, Jan
+End-to-end verification of stack-space bounds for C programs,Ramananandro, Tahina
+End-to-end verification of stack-space bounds for C programs,Shao, Zhong
+Expressing and verifying probabilistic assertions,Sampson, Adrian
+Expressing and verifying probabilistic assertions,Panchekha, Pavel
+Expressing and verifying probabilistic assertions,Mytkowicz, Todd
+Expressing and verifying probabilistic assertions,McKinley, Kathryn S
+Expressing and verifying probabilistic assertions,Grossman, Dan
+Expressing and verifying probabilistic assertions,Ceze, Luis
+FlowDroid precise context  flow  field  object-sensitive and lifecycle-aware taint analysis for Android apps,Arzt, Steven
+FlowDroid precise context  flow  field  object-sensitive and lifecycle-aware taint analysis for Android apps,Rasthofer, Siegfried
+FlowDroid precise context  flow  field  object-sensitive and lifecycle-aware taint analysis for Android apps,Fritz, Christian
+FlowDroid precise context  flow  field  object-sensitive and lifecycle-aware taint analysis for Android apps,Bodden, Eric
+FlowDroid precise context  flow  field  object-sensitive and lifecycle-aware taint analysis for Android apps,Bartel, Alexandre
+FlowDroid precise context  flow  field  object-sensitive and lifecycle-aware taint analysis for Android apps,Klein, Jacques
+FlowDroid precise context  flow  field  object-sensitive and lifecycle-aware taint analysis for Android apps,Le Traon, Yves
+FlowDroid precise context  flow  field  object-sensitive and lifecycle-aware taint analysis for Android apps,Octeau, Damien
+FlowDroid precise context  flow  field  object-sensitive and lifecycle-aware taint analysis for Android apps,McDaniel, Patrick
+Introspective analysis context-sensitivity  across the board,Smaragdakis, Yannis
+Introspective analysis context-sensitivity  across the board,Kastrinis, George
+Introspective analysis context-sensitivity  across the board,Balatsouras, George
+Taming the parallel effect zoo extensible deterministic parallelism with LVish,Kuper, Lindsey
+Taming the parallel effect zoo extensible deterministic parallelism with LVish,Todd, Aaron
+Taming the parallel effect zoo extensible deterministic parallelism with LVish,Tobin-Hochstadt, Sam
+Taming the parallel effect zoo extensible deterministic parallelism with LVish,Newton, Ryan R
+Test-driven repair of data races in structured parallel programs,Surendran, Rishi
+Test-driven repair of data races in structured parallel programs,Raman, Raghavan
+Test-driven repair of data races in structured parallel programs,Chaudhuri, Swarat
+Test-driven repair of data races in structured parallel programs,Mellor-Crummey, John
+Test-driven repair of data races in structured parallel programs,Sarkar, Vivek
+Doppio breaking the browser language barrier,Vilk, John
+Doppio breaking the browser language barrier,Berger, Emery D
+Dynamic space limits for Haskell,Yang, Edward Z
+Dynamic space limits for Haskell,Mazi{\`e}res, David
+Preventing glitches and short circuits in high-level self-timed chip specifications,Longfield, Stephen
+Preventing glitches and short circuits in high-level self-timed chip specifications,Nkounkou, Brittany
+Preventing glitches and short circuits in high-level self-timed chip specifications,Manohar, Rajit
+Preventing glitches and short circuits in high-level self-timed chip specifications,Tate, Ross
+Algorithmic debugging of real-world haskell programs: deriving dependencies from the cost centre stack,Faddegon, Maarten
+Algorithmic debugging of real-world haskell programs: deriving dependencies from the cost centre stack,Chitil, Olaf
+Tree dependence analysis,Weijiang, Yusheng
+Tree dependence analysis,Balakrishna, Shruthi
+Tree dependence analysis,Liu, Jianqiao
+Tree dependence analysis,Kulkarni, Milind
+Monitoring refinement via symbolic reasoning,Emmi, Michael
+Monitoring refinement via symbolic reasoning,Enea, Constantin
+Monitoring refinement via symbolic reasoning,Hamza, Jad
+Relaxing safely: verified on-the-fly garbage collection for x86-TSO,Gammie, Peter
+Relaxing safely: verified on-the-fly garbage collection for x86-TSO,Hosking, Antony L
+Relaxing safely: verified on-the-fly garbage collection for x86-TSO,Engelhardt, Kai
+Verification of producer-consumer synchronization in GPU programs,Sharma, Rahul
+Verification of producer-consumer synchronization in GPU programs,Bauer, Michael
+Verification of producer-consumer synchronization in GPU programs,Aiken, Alex
+Efficient execution of recursive programs on commodity vector hardware,Ren, Bin
+Efficient execution of recursive programs on commodity vector hardware,Jo, Youngjoon
+Efficient execution of recursive programs on commodity vector hardware,Krishnamoorthy, Sriram
+Efficient execution of recursive programs on commodity vector hardware,Agrawal, Kunal
+Efficient execution of recursive programs on commodity vector hardware,Kulkarni, Milind
+Asynchronous programming  analysis and testing with state machines,Deligiannis, Pantazis
+Asynchronous programming  analysis and testing with state machines,Donaldson, Alastair F
+Asynchronous programming  analysis and testing with state machines,Ketema, Jeroen
+Asynchronous programming  analysis and testing with state machines,Lal, Akash
+Asynchronous programming  analysis and testing with state machines,Thomson, Paul
+Making numerical program analysis fast,Singh, Gagandeep
+Making numerical program analysis fast,"P{\""u}schel", Markus
+Making numerical program analysis fast,Vechev, Martin
+Relatively complete counterexamples for higher-order programs,Nguyš_Ûn, Ph{\'u}c C
+Relatively complete counterexamples for higher-order programs,Van Horn, David
+Concurrency debugging with differential schedule projections,Machado, Nuno
+Concurrency debugging with differential schedule projections,Lucia, Brandon
+Concurrency debugging with differential schedule projections,Rodrigues, Lu{\'\i}s
+Interactive parser synthesis by example,Leung, Alan
+Interactive parser synthesis by example,Sarracino, John
+Interactive parser synthesis by example,Lerner, Sorin
+Lightweight  flexible object-oriented generics,Zhang, Yizhou
+Lightweight  flexible object-oriented generics,Loring, Matthew C
+Lightweight  flexible object-oriented generics,Salvaneschi, Guido
+Lightweight  flexible object-oriented generics,Liskov, Barbara
+Lightweight  flexible object-oriented generics,Myers, Andrew C
+Synthesizing racy tests,Samak, Malavika
+Synthesizing racy tests,Ramanathan, Murali Krishna
+Synthesizing racy tests,Jagannathan, Suresh
+Zero-overhead metaprogramming: reflection and metaobject protocols fast and without compromises,Marr, Stefan
+Zero-overhead metaprogramming: reflection and metaobject protocols fast and without compromises,Seaton, Chris
+Zero-overhead metaprogramming: reflection and metaobject protocols fast and without compromises,Ducasse, St{\'e}phane
+A formal C memory model supporting integer-pointer casts,Kang, Jeehoon
+A formal C memory model supporting integer-pointer casts,Hur, Chung-Kil
+A formal C memory model supporting integer-pointer casts,Mansky, William
+A formal C memory model supporting integer-pointer casts,Garbuzov, Dmitri
+A formal C memory model supporting integer-pointer casts,Zdancewic, Steve
+A formal C memory model supporting integer-pointer casts,Vafeiadis, Viktor
+Termination and non-termination specification inference,Le, Ton Chanh
+Termination and non-termination specification inference,Qin, Shengchao
+Termination and non-termination specification inference,Chin, Wei-Ngan
+Many-core compiler fuzzing,Lidbury, Christopher
+Many-core compiler fuzzing,Lascu, Andrei
+Many-core compiler fuzzing,Chong, Nathan
+Many-core compiler fuzzing,Donaldson, Alastair F
+Compositional certified resource bounds,Carbonneaux, Quentin
+Compositional certified resource bounds,Hoffmann, Jan
+Compositional certified resource bounds,Shao, Zhong
+KJS: a complete formal semantics of JavaScript,Park, Daejun
+KJS: a complete formal semantics of JavaScript,Stef{\u{a}}nescu, Andrei
+KJS: a complete formal semantics of JavaScript,Ro{\c{s}}u, Grigore
+Mechanized verification of fine-grained concurrent programs,Sergey, Ilya
+Mechanized verification of fine-grained concurrent programs,Nanevski, Aleksandar
+Mechanized verification of fine-grained concurrent programs,Banerjee, Anindya
+Declarative programming over eventually consistent data stores,Sivaramakrishnan, Krishnamoorthy C
+Declarative programming over eventually consistent data stores,Kaki, Gowtham
+Declarative programming over eventually consistent data stores,Jagannathan, Suresh
+FlashRelate: extracting relational data from semi-structured spreadsheets using examples,Barowy, Daniel W
+FlashRelate: extracting relational data from semi-structured spreadsheets using examples,Gulwani, Sumit
+FlashRelate: extracting relational data from semi-structured spreadsheets using examples,Hart, Ted
+FlashRelate: extracting relational data from semi-structured spreadsheets using examples,Zorn, Benjamin
+Automatically improving accuracy for floating point expressions,Panchekha, Pavel
+Automatically improving accuracy for floating point expressions,Sanchez-Stern, Alex
+Automatically improving accuracy for floating point expressions,Wilcox, James R
+Automatically improving accuracy for floating point expressions,Tatlock, Zachary
+Verdi: a framework for implementing and formally verifying distributed systems,Wilcox, James R
+Verdi: a framework for implementing and formally verifying distributed systems,Woos, Doug
+Verdi: a framework for implementing and formally verifying distributed systems,Panchekha, Pavel
+Verdi: a framework for implementing and formally verifying distributed systems,Tatlock, Zachary
+Verdi: a framework for implementing and formally verifying distributed systems,Wang, Xi
+Verdi: a framework for implementing and formally verifying distributed systems,Ernst, Michael D
+Verdi: a framework for implementing and formally verifying distributed systems,Anderson, Thomas
+Type-and-example-directed program synthesis,Osera, Peter-Michael
+Type-and-example-directed program synthesis,Zdancewic, Steve
+Efficient synthesis of network updates,McClurg, Jedidiah
+Efficient synthesis of network updates,Hojjat, Hossein
+Efficient synthesis of network updates,{\v{C}}ern{\`y}, Pavol
+Efficient synthesis of network updates,Foster, Nate
+A design and verification methodology for secure isolated regions,Sinha, Rohit
+A design and verification methodology for secure isolated regions,Costa, Manuel
+A design and verification methodology for secure isolated regions,Lal, Akash
+A design and verification methodology for secure isolated regions,Lopes, Nuno P
+A design and verification methodology for secure isolated regions,Rajamani, Sriram
+A design and verification methodology for secure isolated regions,Seshia, Sanjit A
+A design and verification methodology for secure isolated regions,Vaswani, Kapil
+Automatically learning shape specifications,Zhu, He
+Automatically learning shape specifications,Petri, Gustavo
+Automatically learning shape specifications,Jagannathan, Suresh
+Configuration synthesis for programmable analog devices with Arco,Achour, Sara
+Configuration synthesis for programmable analog devices with Arco,Sarpeshkar, Rahul
+Configuration synthesis for programmable analog devices with Arco,Rinard, Martin C
+End-to-end verification of information-flow security for C and assembly programs,Costanzo, David
+End-to-end verification of information-flow security for C and assembly programs,Shao, Zhong
+End-to-end verification of information-flow security for C and assembly programs,Gu, Ronghui
+Event-driven network programming,McClurg, Jedidiah
+Event-driven network programming,Hojjat, Hossein
+Event-driven network programming,Foster, Nate
+Event-driven network programming,{\v{C}}ern{\`y}, Pavol
+Fast synthesis of fast collections,Loncaric, Calvin
+Fast synthesis of fast collections,Torlak, Emina
+Fast synthesis of fast collections,Ernst, Michael D
+Refinement types for TypeScript,Vekris, Panagiotis
+Refinement types for TypeScript,Cosman, Benjamin
+Refinement types for TypeScript,Jhala, Ranjit
+Higher-order and tuple-based massively-parallel prefix sums,Maleki, Sepideh
+Higher-order and tuple-based massively-parallel prefix sums,Yang, Annie
+Higher-order and tuple-based massively-parallel prefix sums,Burtscher, Martin
+Idle time garbage collection scheduling,Degenbaev, Ulan
+Idle time garbage collection scheduling,Eisinger, Jochen
+Idle time garbage collection scheduling,Ernst, Manfred
+Idle time garbage collection scheduling,McIlroy, Ross
+Idle time garbage collection scheduling,Payer, Hannes
+Ivy: safety verification by interactive generalization,Padon, Oded
+Ivy: safety verification by interactive generalization,McMillan, Kenneth L
+Ivy: safety verification by interactive generalization,Panda, Aurojit
+Ivy: safety verification by interactive generalization,Sagiv, Mooly
+Ivy: safety verification by interactive generalization,Shoham, Sharon
+Just-in-time static type checking for dynamic languages,Ren, Brianna M
+Just-in-time static type checking for dynamic languages,Foster, Jeffrey S
+Lightweight computation tree tracing for lazy functional languages,Faddegon, Maarten
+Lightweight computation tree tracing for lazy functional languages,Chitil, Olaf
+Occurrence typing modulo theories,Kent, Andrew M
+Occurrence typing modulo theories,Kempe, David
+Occurrence typing modulo theories,Tobin-Hochstadt, Sam
+Precise  dynamic information flow for database-backed applications,Yang, Jean
+Precise  dynamic information flow for database-backed applications,Hance, Travis
+Precise  dynamic information flow for database-backed applications,Austin, Thomas H
+Precise  dynamic information flow for database-backed applications,Solar-Lezama, Armando
+Precise  dynamic information flow for database-backed applications,Flanagan, Cormac
+Precise  dynamic information flow for database-backed applications,Chong, Stephen
+Program synthesis from polymorphic refinement types,Polikarpova, Nadia
+Program synthesis from polymorphic refinement types,Kuraj, Ivan
+Program synthesis from polymorphic refinement types,Solar-Lezama, Armando
+Programmatic and direct manipulation  together at last,Chugh, Ravi
+Programmatic and direct manipulation  together at last,Hempel, Brian
+Programmatic and direct manipulation  together at last,Spradlin, Mitchell
+Programmatic and direct manipulation  together at last,Albers, Jacob
+Rehearsal: a configuration verification tool for puppet,Shambaugh, Rian
+Rehearsal: a configuration verification tool for puppet,Weiss, Aaron
+Rehearsal: a configuration verification tool for puppet,Guha, Arjun
+Remix: online detection and repair of cache contention for the JVM,Eizenberg, Ariel
+Remix: online detection and repair of cache contention for the JVM,Hu, Shiliang
+Remix: online detection and repair of cache contention for the JVM,Pokam, Gilles
+Remix: online detection and repair of cache contention for the JVM,Devietti, Joseph
+SDNRacer: concurrency analysis for software-defined networks,El-Hassany, Ahmed
+SDNRacer: concurrency analysis for software-defined networks,Miserez, Jeremie
+SDNRacer: concurrency analysis for software-defined networks,Bielik, Pavol
+SDNRacer: concurrency analysis for software-defined networks,Vanbever, Laurent
+SDNRacer: concurrency analysis for software-defined networks,Vechev, Martin
+Temporal NetKAT,Beckett, Ryan
+Temporal NetKAT,Greenberg, Michael
+Temporal NetKAT,Walker, David
+Ball-Larus path profiling across multiple loop iterations,D'Elia, Daniele Cono
+Ball-Larus path profiling across multiple loop iterations,Demetrescu, Camil
+Barrier invariants a shared state abstraction for the analysis of data-dependent GPU kernels,Chong, Nathan
+Barrier invariants a shared state abstraction for the analysis of data-dependent GPU kernels,Donaldson, Alastair F
+Barrier invariants a shared state abstraction for the analysis of data-dependent GPU kernels,Kelly, Paul HJ
+Barrier invariants a shared state abstraction for the analysis of data-dependent GPU kernels,Ketema, Jeroen
+Barrier invariants a shared state abstraction for the analysis of data-dependent GPU kernels,Qadeer, Shaz
+Bottle graphs visualizing scalability bottlenecks in multi-threaded applications,Du Bois, Kristof
+Bottle graphs visualizing scalability bottlenecks in multi-threaded applications,Sartor, Jennifer B
+Bottle graphs visualizing scalability bottlenecks in multi-threaded applications,Eyerman, Stijn
+Bottle graphs visualizing scalability bottlenecks in multi-threaded applications,Eeckhout, Lieven
+CDSchecker checking concurrent data structures written with C/C++ atomics,Norris, Brian
+CDSchecker checking concurrent data structures written with C/C++ atomics,Demsky, Brian
+Do developers benefit from generic types? an empirical comparison of generic and raw types in java,Hoppe, Michael
+Do developers benefit from generic types? an empirical comparison of generic and raw types in java,Hanenberg, Stefan
+Effective race detection for event-driven programs,Raychev, Veselin
+Effective race detection for event-driven programs,Vechev, Martin
+Effective race detection for event-driven programs,Sridharan, Manu
+Efficient context sensitivity for dynamic analyses via calling context uptrees and customized memory management,Huang, Jipeng
+Efficient context sensitivity for dynamic analyses via calling context uptrees and customized memory management,Bond, Michael D
+Flexible access control for javascript,Richards, Gregor
+Flexible access control for javascript,Hammer, Christian
+Flexible access control for javascript,Zappa Nardelli, Francesco
+Flexible access control for javascript,Jagannathan, Suresh
+Flexible access control for javascript,Vitek, Jan
+Instant pickles generating object-oriented pickler combinators for fast and extensible serialization,Miller, Heather
+Instant pickles generating object-oriented pickler combinators for fast and extensible serialization,Haller, Philipp
+Instant pickles generating object-oriented pickler combinators for fast and extensible serialization,Burmako, Eugene
+Instant pickles generating object-oriented pickler combinators for fast and extensible serialization,Odersky, Martin
+Miniboxing improving the speed to code size tradeoff in parametric polymorphism translations,Ureche, Vlad
+Miniboxing improving the speed to code size tradeoff in parametric polymorphism translations,Talau, Cristian
+Miniboxing improving the speed to code size tradeoff in parametric polymorphism translations,Odersky, Martin
+Multiverse efficiently supporting distributed high-level speculation,Ravichandran, Kaushik
+Multiverse efficiently supporting distributed high-level speculation,Pande, Santosh
+OCTET capturing and controlling cross-thread dependences efficiently,Bond, Michael D
+OCTET capturing and controlling cross-thread dependences efficiently,Kulkarni, Milind
+OCTET capturing and controlling cross-thread dependences efficiently,Cao, Man
+OCTET capturing and controlling cross-thread dependences efficiently,Zhang, Minjia
+OCTET capturing and controlling cross-thread dependences efficiently,Fathi Salmi, Meisam
+OCTET capturing and controlling cross-thread dependences efficiently,Biswas, Swarnendu
+OCTET capturing and controlling cross-thread dependences efficiently,Sengupta, Aritra
+OCTET capturing and controlling cross-thread dependences efficiently,Huang, Jipeng
+Option contracts,Cohen, Jerome B
+Option contracts,Black, Fischer
+Option contracts,Scholes, Myron
+Python the full monty,Politz, Joe Gibbs
+Python the full monty,Martinez, Alejandro
+Python the full monty,Milano, Matthew
+Python the full monty,Warren, Sumner
+Python the full monty,Patterson, Daniel
+Python the full monty,Li, Junsong
+Python the full monty,Chitipothu, Anand
+Python the full monty,Krishnamurthi, Shriram
+River trail a path to parallelism in JavaScript,Herhut, Stephan
+River trail a path to parallelism in JavaScript,Hudson, Richard L
+River trail a path to parallelism in JavaScript,Shpeisman, Tatiana
+River trail a path to parallelism in JavaScript,Sreeram, Jaswanth
+Semi-automatic rename refactoring for JavaScript,Feldthaus, Asger
+Semi-automatic rename refactoring for JavaScript,M{\o}ller, Anders
+Storage strategies for collections in dynamically typed languages,Bolz, Carl Friedrich
+Storage strategies for collections in dynamically typed languages,Diekmann, Lukas
+Storage strategies for collections in dynamically typed languages,Tratt, Laurence
+Synthesis modulo recursive functions,Kneuss, Etienne
+Synthesis modulo recursive functions,Kuraj, Ivan
+Synthesis modulo recursive functions,Kuncak, Viktor
+Synthesis modulo recursive functions,Suter, Philippe
+Accelerating iterators in optimizing AST interpreters,Zhang, Wei
+Accelerating iterators in optimizing AST interpreters,Larsen, Per
+Accelerating iterators in optimizing AST interpreters,Brunthaler, Stefan
+Accelerating iterators in optimizing AST interpreters,Franz, Michael
+Adaptive LL(*) parsing the power of dynamic analysis,Parr, Terence
+Adaptive LL(*) parsing the power of dynamic analysis,Harwell, Sam
+Adaptive LL(*) parsing the power of dynamic analysis,Fisher, Kathleen
+CheckCell data debugging for spreadsheets,Barowy, Daniel W
+CheckCell data debugging for spreadsheets,Gochev, Dimitar
+CheckCell data debugging for spreadsheets,Berger, Emery D
+Checking correctness of TypeScript interfaces for JavaScript libraries,Feldthaus, Asger
+Checking correctness of TypeScript interfaces for JavaScript libraries,M{\o}ller, Anders
+Compiler verification meets cross-language linking via data abstraction,Wang, Peng
+Compiler verification meets cross-language linking via data abstraction,Cuellar, Santiago
+Compiler verification meets cross-language linking via data abstraction,Chlipala, Adam
+Continuously measuring critical section pressure with the free-lunch profiler,David, Florian
+Continuously measuring critical section pressure with the free-lunch profiler,Thomas, Gael
+Continuously measuring critical section pressure with the free-lunch profiler,Lawall, Julia
+Continuously measuring critical section pressure with the free-lunch profiler,Muller, Gilles
+Determinacy in static analysis for jQuery,Andreasen, Esben
+Determinacy in static analysis for jQuery,M{\o}ller, Anders
+Fast conservative garbage collection,Shahriyar, Rifat
+Fast conservative garbage collection,Blackburn, Stephen M
+Fast conservative garbage collection,McKinley, Kathryn S
+Flint fixing linearizability violations,Liu, Peng
+Flint fixing linearizability violations,Tripp, Omer
+Flint fixing linearizability violations,Zhang, Xiangyu
+From object algebras to attribute grammars,Rendel, Tillmann
+From object algebras to attribute grammars,"Brachth{\""a}user", Jonathan Immanuel
+From object algebras to attribute grammars,Ostermann, Klaus
+GPS navigating weak memory with ghosts  protocols  and separation,Turon, Aaron
+GPS navigating weak memory with ghosts  protocols  and separation,Vafeiadis, Viktor
+GPS navigating weak memory with ghosts  protocols  and separation,Dreyer, Derek
+i3QL language-integrated live data views,Mitschke, Ralf
+i3QL language-integrated live data views,Erdweg, Sebastian
+i3QL language-integrated live data views,"K{\""o}hler", Mirko
+i3QL language-integrated live data views,Mezini, Mira
+i3QL language-integrated live data views,Salvaneschi, Guido
+Late data layout unifying data representation transformations,Ureche, Vlad
+Late data layout unifying data representation transformations,Burmako, Eugene
+Late data layout unifying data representation transformations,Odersky, Martin
+MIX10 compiling MATLAB to X10 for high performance,Kumar, Vineet
+MIX10 compiling MATLAB to X10 for high performance,Hendren, Laurie
+Multithreaded test synthesis for deadlock detection,Samak, Malavika
+Multithreaded test synthesis for deadlock detection,Ramanathan, Murali Krishna
+Phosphor illuminating dynamic data flow in commodity jvms,Bell, Jonathan
+Phosphor illuminating dynamic data flow in commodity jvms,Kaiser, Gail
+Refactoring Java generics by inferring wildcards  in practice,Altidor, John
+Refactoring Java generics by inferring wildcards  in practice,Smaragdakis, Yannis
+Region-based memory management for GPU programming languages enabling rich data structures on a spartan host,Holk, Eric
+Region-based memory management for GPU programming languages enabling rich data structures on a spartan host,Newton, Ryan
+Region-based memory management for GPU programming languages enabling rich data structures on a spartan host,Siek, Jeremy
+Region-based memory management for GPU programming languages enabling rich data structures on a spartan host,Lumsdaine, Andrew
+Rubah DSU for Java on a stock JVM,Pina, Lu{\'\i}s
+Rubah DSU for Java on a stock JVM,Veiga, Lu{\'\i}s
+Rubah DSU for Java on a stock JVM,Hicks, Michael
+Smten with satisfiability-based search,Uhler, Richard
+Smten with satisfiability-based search,Dave, Nirav
+Static analysis for independent app developers,Brutschy, Lucas
+Static analysis for independent app developers,Ferrara, Pietro
+Static analysis for independent app developers,"M{\""u}ller", Peter
+SurveyMan programming and automatically debugging surveys,Tosch, Emma
+SurveyMan programming and automatically debugging surveys,Berger, Emery D
+The hiphop virtual machine,Adams, Keith
+The hiphop virtual machine,Evans, Jason
+The hiphop virtual machine,Maher, Bertrand
+The hiphop virtual machine,Ottoni, Guilherme
+The hiphop virtual machine,Paroski, Andrew
+The hiphop virtual machine,Simmers, Brett
+The hiphop virtual machine,Smith, Edwin
+The hiphop virtual machine,Yamauchi, Owen
+A sound and optimal incremental build system with dynamic dependencies,Erdweg, Sebastian
+A sound and optimal incremental build system with dynamic dependencies,Lichter, Moritz
+A sound and optimal incremental build system with dynamic dependencies,Weiel, Manuel
+Accurate profiling in the presence of dynamic compilation,Zheng, Yudi
+Accurate profiling in the presence of dynamic compilation,Bulej, Lubom{\'\i}r
+Accurate profiling in the presence of dynamic compilation,Binder, Walter
+Automating ad hoc data representation transformations,Ureche, Vlad
+Automating ad hoc data representation transformations,Biboudis, Aggelos
+Automating ad hoc data representation transformations,Smaragdakis, Yannis
+Automating ad hoc data representation transformations,Odersky, Martin
+Automating grammar comparison,Kandhadai Madhavan, Ravichandhran
+Automating grammar comparison,Mayer," Mika{\""e}l"
+Automating grammar comparison,Gulwani, Sumit
+Automating grammar comparison,Kuncak, Viktor
+AutoMO: automatic inference of memory order parameters for C/C++11,Ou, Peizhao
+AutoMO: automatic inference of memory order parameters for C/C++11,Demsky, Brian
+Checks and balances: constraint solving without surprises in object-constraint programming languages,Felgentreff, Tim
+Checks and balances: constraint solving without surprises in object-constraint programming languages,Millstein, Todd
+Checks and balances: constraint solving without surprises in object-constraint programming languages,Borning, Alan
+Checks and balances: constraint solving without surprises in object-constraint programming languages,Hirschfeld, Robert
+Customizable gradual polymorphic effects for Scala,Toro, Mat{\'\i}as
+Customizable gradual polymorphic effects for Scala,Tanter, {\'E}ric
+Declarative fence insertion,Bender, John
+Declarative fence insertion,Lesani, Mohsen
+Declarative fence insertion,Palsberg, Jens
+Detecting redundant CSS rules in HTML5 applications: a tree rewriting approach,Hague, Matthew
+Detecting redundant CSS rules in HTML5 applications: a tree rewriting approach,Lin, Anthony W
+Detecting redundant CSS rules in HTML5 applications: a tree rewriting approach,Ong, C-H Luke
+Fast  multicore-scalable  low-fragmentation memory allocation through large virtual memory and global data structures,Aigner, Martin
+Fast  multicore-scalable  low-fragmentation memory allocation through large virtual memory and global data structures,Kirsch, Christoph M
+Fast  multicore-scalable  low-fragmentation memory allocation through large virtual memory and global data structures,Lippautz, Michael
+Fast  multicore-scalable  low-fragmentation memory allocation through large virtual memory and global data structures,Sokolova, Ana
+Giga-scale exhaustive points-to analysis for Java in under a minute,Dietrich, Jens
+Giga-scale exhaustive points-to analysis for Java in under a minute,Hollingum, Nicholas
+Giga-scale exhaustive points-to analysis for Java in under a minute,Scholz, Bernhard
+How scale affects structure in Java programs,Lopes, Cristina V
+How scale affects structure in Java programs,Ossher, Joel
+Incremental computation with names,Hammer, Matthew A
+Incremental computation with names,Dunfield, Joshua
+Incremental computation with names,Headley, Kyle
+Incremental computation with names,Labich, Nicholas
+Incremental computation with names,Foster, Jeffrey S
+Incremental computation with names,Hicks, Michael
+Incremental computation with names,Van Horn, David
+Optimizing hash-array mapped tries for fast and lean immutable JVM collections,Steindorfer, Michael J
+Optimizing hash-array mapped tries for fast and lean immutable JVM collections,Vinju, Jurgen J
+Performance problems you can fix: a dynamic analysis of memoization opportunities,Della Toffola, Luca
+Performance problems you can fix: a dynamic analysis of memoization opportunities,Pradel, Michael
+Performance problems you can fix: a dynamic analysis of memoization opportunities,Gross, Thomas R
+Protocol-based verification of message-passing parallel programs,L{\'o}pez, Hugo A
+Protocol-based verification of message-passing parallel programs,Marques, Eduardo RB
+Protocol-based verification of message-passing parallel programs,Martins, Francisco
+Protocol-based verification of message-passing parallel programs,Ng, Nicholas
+Protocol-based verification of message-passing parallel programs,Santos, C{\'e}sar
+Protocol-based verification of message-passing parallel programs,Vasconcelos, Vasco Thudichum
+Protocol-based verification of message-passing parallel programs,Yoshida, Nobuko
+Remote-scope promotion: clarified  rectified  and verified,Wickerson, John
+Remote-scope promotion: clarified  rectified  and verified,Batty, Mark
+Remote-scope promotion: clarified  rectified  and verified,Beckmann, Bradford M
+Remote-scope promotion: clarified  rectified  and verified,Donaldson, Alastair F
+Runtime pointer disambiguation,Alves, P{\'e}ricles
+Runtime pointer disambiguation,Gruber, Fabian
+Runtime pointer disambiguation,Doerfert, Johannes
+Runtime pointer disambiguation,Lamprineas, Alexandros
+Runtime pointer disambiguation,Grosser, Tobias
+Runtime pointer disambiguation,Rastello, Fabrice
+Runtime pointer disambiguation,Pereira, Fernando Magno Quint{\~a}o
+SATCheck: SAT-directed stateless model checking for SC and TSO,Demsky, Brian
+SATCheck: SAT-directed stateless model checking for SC and TSO,Lam, Patrick
+Scalable race detection for Android applications,Bielik, Pavol
+Scalable race detection for Android applications,Raychev, Veselin
+Scalable race detection for Android applications,Vechev, Martin
+Scrap your boilerplate with object algebras,Zhang, Haoyuan
+Scrap your boilerplate with object algebras,Chu, Zewei
+Scrap your boilerplate with object algebras,Oliveira, Bruno C d S
+Scrap your boilerplate with object algebras,Storm, Tijs van der
+Selective control-flow abstraction via jumping,Blackshear, Sam
+Selective control-flow abstraction via jumping,Chang, Bor-Yuh Evan
+Selective control-flow abstraction via jumping,Sridharan, Manu
+Tracing vs. partial evaluation: comparing meta-compilation approaches for self-optimizing interpreters,Marr, Stefan
+Tracing vs. partial evaluation: comparing meta-compilation approaches for self-optimizing interpreters,Ducasse, St{\'e}phane
+Use at your own risk: the Java unsafe API in the wild,Mastrangelo, Luis
+Use at your own risk: the Java unsafe API in the wild,Ponzanelli, Luca
+Use at your own risk: the Java unsafe API in the wild,Mocci, Andrea
+Use at your own risk: the Java unsafe API in the wild,Lanza, Michele
+Use at your own risk: the Java unsafe API in the wild,Hauswirth, Matthias
+Use at your own risk: the Java unsafe API in the wild,Nystrom, Nathaniel
+Valor: efficient  software-only region conflict exceptions,Biswas, Swarnendu
+Valor: efficient  software-only region conflict exceptions,Zhang, Minjia
+Valor: efficient  software-only region conflict exceptions,Bond, Michael D
+Valor: efficient  software-only region conflict exceptions,Lucia, Brandon
+Vectorization of apply to reduce interpretation overhead of R,Wang, Haichuan
+Vectorization of apply to reduce interpretation overhead of R,Padua, David
+Vectorization of apply to reduce interpretation overhead of R,Wu, Peng
+Approximate computation with outlier detection in Topaz,Achour, Sara
+Approximate computation with outlier detection in Topaz,Rinard, Martin C
+A compiler for throughput optimization of graph algorithms on GPUs,Pai, Sreepathi
+A compiler for throughput optimization of graph algorithms on GPUs,Pingali, Keshav
+An improved algorithm for slicing machine code,Srinivasan, Venkatesh
+An improved algorithm for slicing machine code,Reps, Thomas
+An operational semantics for C/C++11 concurrency,Saraswat, Vijay A
+An operational semantics for C/C++11 concurrency,Rinard, Martin
+Automated reasoning for web page layout,Panchekha, Pavel
+Automated reasoning for web page layout,Torlak, Emina
+Computing repair alternatives for malformed programs using constraint attribute grammars,Steimann, Friedrich
+Computing repair alternatives for malformed programs using constraint attribute grammars,Hagemann," J{\""o}rg"
+Computing repair alternatives for malformed programs using constraint attribute grammars,Ulke, Bastian
+Deriving divide-and-conquer dynamic programming algorithms using solver-aided transformations,Itzhaky, Shachar
+Deriving divide-and-conquer dynamic programming algorithms using solver-aided transformations,Singh, Rohit
+Deriving divide-and-conquer dynamic programming algorithms using solver-aided transformations,Solar-Lezama, Armando
+Deriving divide-and-conquer dynamic programming algorithms using solver-aided transformations,Yessenov, Kuat
+Deriving divide-and-conquer dynamic programming algorithms using solver-aided transformations,Lu, Yongquan
+Deriving divide-and-conquer dynamic programming algorithms using solver-aided transformations,Leiserson, Charles
+Deriving divide-and-conquer dynamic programming algorithms using solver-aided transformations,Chowdhury, Rezaul
+Dynamically diagnosing type errors in unsafe code,Kell, Stephen
+Efficient and thread-safe objects for dynamically-typed languages,Daloze, Benoit
+Efficient and thread-safe objects for dynamically-typed languages,Marr, Stefan
+Efficient and thread-safe objects for dynamically-typed languages,Bonetta, Daniele
+Efficient and thread-safe objects for dynamically-typed languages,"M{\""o}ssenb{\""o}ck", Hanspeter
+Gentrification gone too far? affordable 2nd-class values for fun and (co-)effect,Osvald, Leo
+Gentrification gone too far? affordable 2nd-class values for fun and (co-)effect,Essertel, Gr{\'e}gory
+Gentrification gone too far? affordable 2nd-class values for fun and (co-)effect,Wu, Xilun
+Gentrification gone too far? affordable 2nd-class values for fun and (co-)effect,Alay{\'o}n, Lilliam I Gonz{\'a}lez
+Gentrification gone too far? affordable 2nd-class values for fun and (co-)effect,Rompf, Tiark
+Hoare-style specifications as correctness conditions for non-linearizable concurrent objects,Sergey, Ilya
+Hoare-style specifications as correctness conditions for non-linearizable concurrent objects,Nanevski, Aleksandar
+Hoare-style specifications as correctness conditions for non-linearizable concurrent objects,Banerjee, Anindya
+Hoare-style specifications as correctness conditions for non-linearizable concurrent objects,Delbianco, Germ{\'a}n Andr{\'e}s
+Hybrid STM/HTM for nested transactions on OpenJDK,Chapman, Keith
+Hybrid STM/HTM for nested transactions on OpenJDK,Hosking, Antony L
+Hybrid STM/HTM for nested transactions on OpenJDK,Moss, J Eliot B
+Incremental forest: a DSL for efficiently managing filestores,DiLorenzo, Jonathan
+Incremental forest: a DSL for efficiently managing filestores,Zhang, Richard
+Incremental forest: a DSL for efficiently managing filestores,Menzies, Erin
+Incremental forest: a DSL for efficiently managing filestores,Fisher, Kathleen
+Incremental forest: a DSL for efficiently managing filestores,Foster, Nate
+Java and scala's type systems are unsound: the existential crisis of null pointers,Amin, Nada
+Java and scala's type systems are unsound: the existential crisis of null pointers,Tate, Ross
+Low-overhead and fully automated statistical debugging with abstraction refinement,Zuo, Zhiqiang
+Low-overhead and fully automated statistical debugging with abstraction refinement,Fang, Lu
+Low-overhead and fully automated statistical debugging with abstraction refinement,Khoo, Siau-Cheng
+Low-overhead and fully automated statistical debugging with abstraction refinement,Xu, Guoqing
+Low-overhead and fully automated statistical debugging with abstraction refinement,Lu, Shan
+Modeling and analysis of remote memory access programming,Dan, Andrei Marian
+Modeling and analysis of remote memory access programming,Lam, Patrick
+Modeling and analysis of remote memory access programming,Hoefler, Torsten
+Modeling and analysis of remote memory access programming,Vechev, Martin
+Parsing with first-class derivatives,"Brachth{\""a}user", Jonathan Immanuel
+Parsing with first-class derivatives,Rendel, Tillmann
+Parsing with first-class derivatives,Ostermann, Klaus
+Portable inter-workgroup barrier synchronisation for GPUs,Sorensen, Tyler
+Portable inter-workgroup barrier synchronisation for GPUs,Donaldson, Alastair F
+Portable inter-workgroup barrier synchronisation for GPUs,Batty, Mark
+Portable inter-workgroup barrier synchronisation for GPUs,Gopalakrishnan, Ganesh
+Portable inter-workgroup barrier synchronisation for GPUs,Rakamari{\'c}, Zvonimir
+Purposes  concepts  misfits  and a redesign of git,Rosso, De
+Purposes  concepts  misfits  and a redesign of git,Perez, Santiago
+Purposes  concepts  misfits  and a redesign of git,others,
+Ringer: web automation by demonstration,Barman, Shaon
+Ringer: web automation by demonstration,Chasins, Sarah
+Ringer: web automation by demonstration,Bodik, Rastislav
+Ringer: web automation by demonstration,Gulwani, Sumit
+Semantic subtyping for imperative object-oriented languages,Ancona, Davide
+Semantic subtyping for imperative object-oriented languages,Corradi, Andrea
+Semantics-based program verifiers for all languages,Stef{\u{a}}nescu, Andrei
+Semantics-based program verifiers for all languages,Park, Daejun
+Semantics-based program verifiers for all languages,Yuwen, Shijiao
+Semantics-based program verifiers for all languages,Li, Yilong
+Semantics-based program verifiers for all languages,Ro{\c{s}}u, Grigore
+The missing link: explaining ELF static linking  semantically,Kell, Stephen
+The missing link: explaining ELF static linking  semantically,Mulligan, Dominic P
+The missing link: explaining ELF static linking  semantically,Sewell, Peter
+Type soundness for dependent object types (DOT),Rompf, Tiark
+Type soundness for dependent object types (DOT),Amin, Nada
+Scalable verification of border gateway protocol configurations with an SMT solver,Weitz, Konstantin
+Scalable verification of border gateway protocol configurations with an SMT solver,Woos, Doug
+Scalable verification of border gateway protocol configurations with an SMT solver,Torlak, Emina
+Scalable verification of border gateway protocol configurations with an SMT solver,Ernst, Michael D
+Scalable verification of border gateway protocol configurations with an SMT solver,Krishnamurthy, Arvind
+Scalable verification of border gateway protocol configurations with an SMT solver,Tatlock, Zachary
+ADDiff semantic differencing for activity diagrams,Maoz, Shahar
+ADDiff semantic differencing for activity diagrams,Ringert, Jan Oliver
+ADDiff semantic differencing for activity diagrams,Rumpe, Bernhard
+CSSL a logic for specifying conditional scenarios,Ben-David, Shoham
+CSSL a logic for specifying conditional scenarios,Chechik, Marsha
+CSSL a logic for specifying conditional scenarios,Gurfinkel, Arie
+CSSL a logic for specifying conditional scenarios,Uchitel, Sebastian
+High-impact defects a study of breakage and surprise defects,Shihab, Emad
+High-impact defects a study of breakage and surprise defects,Mockus, Audris
+High-impact defects a study of breakage and surprise defects,Kamei, Yasutaka
+High-impact defects a study of breakage and surprise defects,Adams, Bram
+High-impact defects a study of breakage and surprise defects,Hassan, Ahmed E
+Leveraging existing instrumentation to automatically infer invariant-constrained models,Beschastnikh, Ivan
+Leveraging existing instrumentation to automatically infer invariant-constrained models,Brun, Yuriy
+Leveraging existing instrumentation to automatically infer invariant-constrained models,Schneider, Sigurd
+Leveraging existing instrumentation to automatically infer invariant-constrained models,Sloan, Michael
+Leveraging existing instrumentation to automatically infer invariant-constrained models,Ernst, Michael D
+On software component co-installability,Vouillon, J{\'e}r{\^o}me
+On software component co-installability,Cosmo, Roberto Di
+Path exploration based on symbolic output,Qi, Dawei
+Path exploration based on symbolic output,Nguyen, Hoang DT
+Path exploration based on symbolic output,Roychoudhury, Abhik
+Proactive detection of collaboration conflicts,Brun, Yuriy
+Proactive detection of collaboration conflicts,Holmes, Reid
+Proactive detection of collaboration conflicts,Ernst, Michael D
+Proactive detection of collaboration conflicts,Notkin, David
+Compiling mockups to flexible UIs,Sinha, Nishant
+Compiling mockups to flexible UIs,Karim, Rezwana
+Crossing the gap from imperative to functional programming through refactoring,Gyori, Alex
+Crossing the gap from imperative to functional programming through refactoring,Franklin, Lyle
+Crossing the gap from imperative to functional programming through refactoring,Dig, Danny
+Crossing the gap from imperative to functional programming through refactoring,Lahoda, Jan
+Diversity in software engineering research,Nagappan, Meiyappan
+Diversity in software engineering research,Zimmermann, Thomas
+Diversity in software engineering research,Bird, Christian
+Dynodroid: an input generation system for Android apps,Machiry, Aravind
+Dynodroid: an input generation system for Android apps,Tahiliani, Rohan
+Dynodroid: an input generation system for Android apps,Naik, Mayur
+Enhancing symbolic execution with built-in term rewriting and constrained lazy initialization,Braione, Pietro
+Enhancing symbolic execution with built-in term rewriting and constrained lazy initialization,Denaro, Giovanni
+Enhancing symbolic execution with built-in term rewriting and constrained lazy initialization,Pezz{\`e}, Mauro
+Finding incorrect compositions of atomicity,Liu, Peng
+Finding incorrect compositions of atomicity,Dolby, Julian
+Finding incorrect compositions of atomicity,Zhang, Charles
+KATCH: high-coverage testing of software patches,Marinescu, Paul Dan
+KATCH: high-coverage testing of software patches,Cadar, Cristian
+Mining succinct predicated bug signatures,Sun, Chengnian
+Mining succinct predicated bug signatures,Khoo, Siau-Cheng
+Precision reuse for efficient regression verification,Beyer, Dirk
+Precision reuse for efficient regression verification,"L{\""o}we", Stefan
+Precision reuse for efficient regression verification,Novikov, Evgeny
+Precision reuse for efficient regression verification,Stahlbauer, Andreas
+Precision reuse for efficient regression verification,Wendler, Philipp
+Prediction of atomic web services reliability based on k-means clustering,Silic, Marin
+Prediction of atomic web services reliability based on k-means clustering,Delac, Goran
+Prediction of atomic web services reliability based on k-means clustering,Srbljic, Sinisa
+Synthesis of component and connector models from crosscutting structural views,Maoz, Shahar
+Synthesis of component and connector models from crosscutting structural views,Ringert, Jan Oliver
+Synthesis of component and connector models from crosscutting structural views,Rumpe, Bernhard
+Z3-str: a z3-based string solver for web application analysis,Zheng, Yunhui
+Z3-str: a z3-based string solver for web application analysis,Zhang, Xiangyu
+Z3-str: a z3-based string solver for web application analysis,Ganesh, Vijay
+Learning natural coding conventions,Allamanis, Miltiadis
+Learning natural coding conventions,Barr, Earl T
+Learning natural coding conventions,Bird, Christian
+Learning natural coding conventions,Sutton, Charles
+AI: a lightweight system for tolerating concurrency bugs,Zhang, Mingxing
+AI: a lightweight system for tolerating concurrency bugs,Wu, Yongwei
+AI: a lightweight system for tolerating concurrency bugs,Lu, Shan
+AI: a lightweight system for tolerating concurrency bugs,Qi, Shanxiang
+AI: a lightweight system for tolerating concurrency bugs,Ren, Jinglei
+AI: a lightweight system for tolerating concurrency bugs,Zheng, Weimin
+How should we measure functional sameness from program source code? an exploratory study on Java methods,Higo, Yoshiki
+How should we measure functional sameness from program source code? an exploratory study on Java methods,Kusumoto, Shinji
+Solving complex path conditions through heuristic search on induced polytopes,Dinges, Peter
+Solving complex path conditions through heuristic search on induced polytopes,Agha, Gul
+Software developers' perceptions of productivity,Meyer, Andr{\'e} N
+Software developers' perceptions of productivity,Fritz, Thomas
+Software developers' perceptions of productivity,Murphy, Gail C
+Software developers' perceptions of productivity,Zimmermann, Thomas
+ORBS: language-independent program slicing,Binkley, David
+ORBS: language-independent program slicing,Gold, Nicolas
+ORBS: language-independent program slicing,Harman, Mark
+ORBS: language-independent program slicing,Islam, Syed
+ORBS: language-independent program slicing,Krinke, Jens
+ORBS: language-independent program slicing,Yoo, Shin
+Prioritizing the devices to test your app on: a case study of Android game apps,Khalid, Hammad
+Prioritizing the devices to test your app on: a case study of Android game apps,Nagappan, Meiyappan
+Prioritizing the devices to test your app on: a case study of Android game apps,Shihab, Emad
+Prioritizing the devices to test your app on: a case study of Android game apps,Hassan, Ahmed E
+Techniques for improving regression testing in continuous integration development environments,Elbaum, Sebastian
+Techniques for improving regression testing in continuous integration development environments,Rothermel, Gregg
+Techniques for improving regression testing in continuous integration development environments,Penix, John
+Feedback generation for performance problems in introductory programming assignments,Gulwani, Sumit
+Feedback generation for performance problems in introductory programming assignments,Radi{\v{c}}ek, Ivan
+Feedback generation for performance problems in introductory programming assignments,Zuleger, Florian
+Auto-completing bug reports for Android applications,Moran, Kevin
+Auto-completing bug reports for Android applications,Linares-V{\'a}squez, Mario
+Auto-completing bug reports for Android applications,Bernal-C{\'a}rdenas, Carlos
+Auto-completing bug reports for Android applications,Poshyvanyk, Denys
+Automatically computing path complexity of programs,Bang, Lucas
+Automatically computing path complexity of programs,Aydin, Abdulbaki
+Automatically computing path complexity of programs,Bultan, Tevfik
+CLAPP: characterizing loops in Android applications,Fratantonio, Yanick
+CLAPP: characterizing loops in Android applications,Machiry, Aravind
+CLAPP: characterizing loops in Android applications,Bianchi, Antonio
+CLAPP: characterizing loops in Android applications,Kruegel, Christopher
+CLAPP: characterizing loops in Android applications,Vigna, Giovanni
+Detecting event anomalies in event-based systems,Safi, Gholamreza
+Detecting event anomalies in event-based systems,Shahbazian, Arman
+Detecting event anomalies in event-based systems,Halfond, William GJ
+Detecting event anomalies in event-based systems,Medvidovic, Nenad
+Detecting JavaScript races that matter,Mutlu, Erdal
+Detecting JavaScript races that matter,Tasiran, Serdar
+Detecting JavaScript races that matter,Livshits, Benjamin
+FlexJava: language support for safe and modular approximate programming,Park, Jongse
+FlexJava: language support for safe and modular approximate programming,Esmaeilzadeh, Hadi
+FlexJava: language support for safe and modular approximate programming,Zhang, Xin
+FlexJava: language support for safe and modular approximate programming,Naik, Mayur
+FlexJava: language support for safe and modular approximate programming,Harris, William
+Getting to know you: towards a capability model for Java,Hermann, Ben
+Getting to know you: towards a capability model for Java,Reif, Michael
+Getting to know you: towards a capability model for Java,Eichberg, Michael
+Getting to know you: towards a capability model for Java,Mezini, Mira
+GR(1) synthesis for LTL specification patterns,Maoz, Shahar
+GR(1) synthesis for LTL specification patterns,Ringert, Jan Oliver
+Guided differential testing of certificate validation in SSL/TLS implementations,Chen, Yuting
+Guided differential testing of certificate validation in SSL/TLS implementations,Su, Zhendong
+Hey  you have given me too many knobs!: understanding and dealing with over-designed configuration in system software,Xu, Tianyin
+Hey  you have given me too many knobs!: understanding and dealing with over-designed configuration in system software,Jin, Long
+Hey  you have given me too many knobs!: understanding and dealing with over-designed configuration in system software,Fan, Xuepeng
+Hey  you have given me too many knobs!: understanding and dealing with over-designed configuration in system software,Zhou, Yuanyuan
+Hey  you have given me too many knobs!: understanding and dealing with over-designed configuration in system software,Pasupathy, Shankar
+Hey  you have given me too many knobs!: understanding and dealing with over-designed configuration in system software,Talwadker, Rukma
+Iterative distribution-aware sampling for probabilistic symbolic execution,Borges, Mateus
+Iterative distribution-aware sampling for probabilistic symbolic execution,Filieri, Antonio
+Iterative distribution-aware sampling for probabilistic symbolic execution,d'Amorim, Marcelo
+Iterative distribution-aware sampling for probabilistic symbolic execution,P{\u{a}}s{\u{a}}reanu, Corina S
+MemInsight: platform-independent memory debugging for JavaScript,Jensen, Simon Holm
+MemInsight: platform-independent memory debugging for JavaScript,Sridharan, Manu
+MemInsight: platform-independent memory debugging for JavaScript,Sen, Koushik
+MemInsight: platform-independent memory debugging for JavaScript,Chandra, Satish
+Mimic: computing models for opaque code,Heule, Stefan
+Mimic: computing models for opaque code,Sridharan, Manu
+Mimic: computing models for opaque code,Chandra, Satish
+Staged program repair with condition synthesis,Long, Fan
+Staged program repair with condition synthesis,Rinard, Martin
+Synthesizing tests for detecting atomicity violations,Samak, Malavika
+Synthesizing tests for detecting atomicity violations,Ramanathan, Murali Krishna
+Witness validation and stepwise testification across software verifiers,Beyer, Dirk
+Witness validation and stepwise testification across software verifiers,Dangl, Matthias
+Witness validation and stepwise testification across software verifiers,Dietsch, Daniel
+Witness validation and stepwise testification across software verifiers,Heizmann, Matthias
+Witness validation and stepwise testification across software verifiers,Stahlbauer, Andreas
+Impact of developer turnover on quality in open-source software,Foucault, Matthieu
+Impact of developer turnover on quality in open-source software,Palyart, Marc
+Impact of developer turnover on quality in open-source software,Blanc, Xavier
+Impact of developer turnover on quality in open-source software,Murphy, Gail C
+Impact of developer turnover on quality in open-source software,Falleri, Jean-R{\'e}my
+Call graph construction for Java libraries,Reif, Michael
+Call graph construction for Java libraries,Eichberg, Michael
+Call graph construction for Java libraries,Hermann, Ben
+Call graph construction for Java libraries,Lerch, Johannes
+Call graph construction for Java libraries,Mezini, Mira
+Code relatives: detecting similarly behaving software,Su, Fang-Hsiang
+Code relatives: detecting similarly behaving software,Bell, Jonathan
+Code relatives: detecting similarly behaving software,Harvey, Kenneth
+Code relatives: detecting similarly behaving software,Sethumadhavan, Simha
+Code relatives: detecting similarly behaving software,Kaiser, Gail
+Code relatives: detecting similarly behaving software,Jebara, Tony
+Correctness witnesses: exchanging verification results between verifiers,Beyer, Dirk
+Correctness witnesses: exchanging verification results between verifiers,Dangl, Matthias
+Correctness witnesses: exchanging verification results between verifiers,Dietsch, Daniel
+Correctness witnesses: exchanging verification results between verifiers,Heizmann, Matthias
+Detecting and fixing precision-specific operations for measuring floating-point errors,Wang, Ran
+Detecting and fixing precision-specific operations for measuring floating-point errors,Zou, Daming
+Detecting and fixing precision-specific operations for measuring floating-point errors,He, Xinrui
+Detecting and fixing precision-specific operations for measuring floating-point errors,Xiong, Yingfei
+Detecting and fixing precision-specific operations for measuring floating-point errors,Zhang, Lu
+Detecting and fixing precision-specific operations for measuring floating-point errors,Huang, Gang
+Detecting sensitive data disclosure via bi-directional text correlation analysis,Huang, Jianjun
+Detecting sensitive data disclosure via bi-directional text correlation analysis,Zhang, Xiangyu
+Detecting sensitive data disclosure via bi-directional text correlation analysis,Tan, Lin
+Directed test generation to detect loop inefficiencies,Dhok, Monika
+Directed test generation to detect loop inefficiencies,Ramanathan, Murali Krishna
+Extracting instruction semantics via symbolic execution of code generators,Hasabnis, Niranjan
+Extracting instruction semantics via symbolic execution of code generators,Sekar, R
+On-demand strong update analysis via value-flow refinement,Sui, Yulei
+On-demand strong update analysis via value-flow refinement,Xue, Jingling
+Parallel data race detection for task parallel programs with locks,Yoga, Adarsh
+Parallel data race detection for task parallel programs with locks,Nagarakatte, Santosh
+Parallel data race detection for task parallel programs with locks,Gupta, Aarti
+Python predictive analysis for bug detection,Xu, Zhaogui
+Python predictive analysis for bug detection,Liu, Peng
+Python predictive analysis for bug detection,Zhang, Xiangyu
+Python predictive analysis for bug detection,Xu, Baowen
+Python probabilistic type inference with natural language support,Xu, Zhaogui
+Python probabilistic type inference with natural language support,Zhang, Xiangyu
+Python probabilistic type inference with natural language support,Chen, Lin
+Python probabilistic type inference with natural language support,Pei, Kexin
+Python probabilistic type inference with natural language support,Xu, Baowen
+Static DOM event dependency analysis for testing web applications,Sung, Chungha
+Static DOM event dependency analysis for testing web applications,Kusano, Markus
+Static DOM event dependency analysis for testing web applications,Sinha, Nishant
+Static DOM event dependency analysis for testing web applications,Wang, Chao
+Understanding and detecting wake lock misuses for Android applications,Liu, Yepang
+Understanding and detecting wake lock misuses for Android applications,Xu, Chang
+Understanding and detecting wake lock misuses for Android applications,Cheung, Shing-Chi
+Understanding and detecting wake lock misuses for Android applications,Terragni, Valerio
+WebRanz: web page randomization for better advertisement delivery and web-bot prevention,Wang, Weihang
+WebRanz: web page randomization for better advertisement delivery and web-bot prevention,Zheng, Yunhui
+WebRanz: web page randomization for better advertisement delivery and web-bot prevention,Xing, Xinyu
+WebRanz: web page randomization for better advertisement delivery and web-bot prevention,Kwon, Yonghwi
+WebRanz: web page randomization for better advertisement delivery and web-bot prevention,Zhang, Xiangyu
+WebRanz: web page randomization for better advertisement delivery and web-bot prevention,Eugster, Patrick
+Why we refactor? confessions of GitHub contributors,Silva, Danilo
+Why we refactor? confessions of GitHub contributors,Tsantalis, Nikolaos
+Why we refactor? confessions of GitHub contributors,Valente, Marco Tulio
+Discovering bug patterns in JavaScript,Hanam, Quinn
+Discovering bug patterns in JavaScript,Brito, Fernando S de M
+Discovering bug patterns in JavaScript,Mesbah, Ali
+On-the-fly decomposition of specifications in software model checking,Apel, Sven
+On-the-fly decomposition of specifications in software model checking,Beyer, Dirk
+On-the-fly decomposition of specifications in software model checking,Mordan, Vitaly
+On-the-fly decomposition of specifications in software model checking,Mutilin, Vadim
+On-the-fly decomposition of specifications in software model checking,Stahlbauer, Andreas
+Feature-Oriented Programming with Object Algebra.,Oliveira, Bruno C d S
+Feature-Oriented Programming with Object Algebra.,Van Der Storm, Tijs
+Feature-Oriented Programming with Object Algebra.,Loh, Alex
+Feature-Oriented Programming with Object Algebra.,Cook, William R
+Averroes: Whole-Program Analysis without the Whole Program,Ali, Karim
+Averroes: Whole-Program Analysis without the Whole Program,Lhot{\'a}k, Ond{\v{r}}ej
+QUIC Graphs: Relational Invariant Generation for Containers,Cox, Arlen
+QUIC Graphs: Relational Invariant Generation for Containers,Chang, Bor-Yuh Evan
+QUIC Graphs: Relational Invariant Generation for Containers,Sankaranarayanan, Sriram
+Verification Condition Generation for Permission Logics with Abstract Predicates and Abstraction Functions,Heule, Stefan
+Verification Condition Generation for Permission Logics with Abstract Predicates and Abstraction Functions,Kassios, Ioannis T
+Verification Condition Generation for Permission Logics with Abstract Predicates and Abstraction Functions,"M{\""u}ller", Peter
+Verification Condition Generation for Permission Logics with Abstract Predicates and Abstraction Functions,Summers, Alexander J
+Really Automatic Scalable Object Oriented Reengineering,Trudel, Marco
+Really Automatic Scalable Object Oriented Reengineering,Furia, Carlo A
+Really Automatic Scalable Object Oriented Reengineering,Nordio, Martin
+Really Automatic Scalable Object Oriented Reengineering,Meyer, Bertrand
+A Comparative Study of Manual and Automated Refactorings,Negara, Stas
+A Comparative Study of Manual and Automated Refactorings,Chen, Nicholas
+A Comparative Study of Manual and Automated Refactorings,Vakilian, Mohsen
+A Comparative Study of Manual and Automated Refactorings,Johnson, Ralph E
+A Comparative Study of Manual and Automated Refactorings,Dig, Danny
+A Compositional Paradigm of Automating Refactorings,Vakilian, Mohsen
+A Compositional Paradigm of Automating Refactorings,Chen, Nicholas
+A Compositional Paradigm of Automating Refactorings,Moghaddam, Roshanak Zilouchian
+A Compositional Paradigm of Automating Refactorings,Negara, Stas
+A Compositional Paradigm of Automating Refactorings,Johnson, Ralph E
+Systematic Testing of Refactoring Engines on Real Software Projects,Gligoric, Milos
+Systematic Testing of Refactoring Engines on Real Software Projects,Behrang, Farnaz
+Systematic Testing of Refactoring Engines on Real Software Projects,Li, Yilong
+Systematic Testing of Refactoring Engines on Real Software Projects,Overbey, Jeffrey
+Systematic Testing of Refactoring Engines on Real Software Projects,Hafiz, Munawar
+Systematic Testing of Refactoring Engines on Real Software Projects,Marinov, Darko
+Self-Inferencing Reflection Resolution for Java,Li, Yue
+Self-Inferencing Reflection Resolution for Java,Tan, Tian
+Self-Inferencing Reflection Resolution for Java,Sui, Yulei
+Self-Inferencing Reflection Resolution for Java,Xue, Jingling
+Graceful Dialects,Homer, Michael
+Graceful Dialects,Jones, Timothy
+Graceful Dialects,Noble, James
+Graceful Dialects,Bruce, Kim B
+Graceful Dialects,Black, Andrew P
+Sound and Complete Subtyping between Coinductive Types for Object-Oriented Languages,Ancona, Davide
+Sound and Complete Subtyping between Coinductive Types for Object-Oriented Languages,Corradi, Andrea
+Babelsberg/JS - A Browser-based Implementation of an Object Constraint Language,Felgentreff, Tim
+Babelsberg/JS - A Browser-based Implementation of an Object Constraint Language,Borning, Alan
+Babelsberg/JS - A Browser-based Implementation of an Object Constraint Language,Hirschfeld, Robert
+Babelsberg/JS - A Browser-based Implementation of an Object Constraint Language,Lincke, Jens
+Babelsberg/JS - A Browser-based Implementation of an Object Constraint Language,Ohshima, Yoshiki
+Babelsberg/JS - A Browser-based Implementation of an Object Constraint Language,Freudenberg, Bert
+Babelsberg/JS - A Browser-based Implementation of an Object Constraint Language,Krahn, Robert
+Capture-Avoiding and Hygienic Program Transformations,Erdweg, Sebastian
+Capture-Avoiding and Hygienic Program Transformations,van der Storm, Tijs
+Capture-Avoiding and Hygienic Program Transformations,Dai, Yi
+Portable and Efficient Run-time Monitoring of JavaScript Applications using Virtual Machine Layering,Lavoie, Erick
+Portable and Efficient Run-time Monitoring of JavaScript Applications using Virtual Machine Layering,Dufour, Bruno
+Portable and Efficient Run-time Monitoring of JavaScript Applications using Virtual Machine Layering,Feeley, Marc
+An Executable Formal Semantics of PHP,Filaretti, Daniele
+An Executable Formal Semantics of PHP,Maffeis, Sergio
+MiCA: A Compositional Architecture for Gossip Protocols,Princehouse, Lonnie
+MiCA: A Compositional Architecture for Gossip Protocols,Chenchu, Rakesh
+MiCA: A Compositional Architecture for Gossip Protocols,Jiang, Zhefu
+MiCA: A Compositional Architecture for Gossip Protocols,Birman, Kenneth P
+MiCA: A Compositional Architecture for Gossip Protocols,Foster, Nate
+MiCA: A Compositional Architecture for Gossip Protocols,Soule, Robert
+Semantics of (Resilient) X10,Crafa, Silvia
+Semantics of (Resilient) X10,Cunningham, David
+Semantics of (Resilient) X10,Saraswat, Vijay
+Semantics of (Resilient) X10,Shinnar, Avraham
+Semantics of (Resilient) X10,Tardieu, Olivier
+Constructing Call Graphs of Scala Programs,Ali, Karim
+Constructing Call Graphs of Scala Programs,Rapoport, Marianna
+Constructing Call Graphs of Scala Programs,Lhot{\'a}k, Ond{\v{r}}ej
+Constructing Call Graphs of Scala Programs,Dolby, Julian
+Constructing Call Graphs of Scala Programs,Tip, Frank
+Automated Multi-Language Artifact Binding and Rename Refactoring,Mayer, Philip
+Automated Multi-Language Artifact Binding and Rename Refactoring,Schroeder, Andreas
+A Pattern Calculus for Rule Languages: Expressiveness Compilation and Mechanization,Shinnar, Avraham
+A Pattern Calculus for Rule Languages: Expressiveness Compilation and Mechanization,Sim{\'e}on, J{\'e}r{\^o}me
+A Pattern Calculus for Rule Languages: Expressiveness Compilation and Mechanization,Hirzel, Martin
+A Theory of Tagged Objects,Lee, Joseph
+A Theory of Tagged Objects,Aldrich, Jonathan
+A Theory of Tagged Objects,Shaw, Troy
+A Theory of Tagged Objects,Potanin, Alex
+Brand Objects for Nominal Typing,Jones, Timothy
+Brand Objects for Nominal Typing,Homer, Michael
+Brand Objects for Nominal Typing,Noble, James
+Framework for Static Analysis of PHP Applications,Hauzar, David
+Framework for Static Analysis of PHP Applications,Kofron, Jan
+Lightweight Support for Magic Wands in an Automatic Verifier,Schwerhoff, Malte
+Lightweight Support for Magic Wands in an Automatic Verifier,Summers, Alexander J
+Optimization Coaching for JavaScript,St-Amour, Vincent
+Optimization Coaching for JavaScript,Guo, Shu-yu
+Scalable and Precise Static Analysis of JavaScript Applications via Loop-Sensitivity,Park, Changhee
+Scalable and Precise Static Analysis of JavaScript Applications via Loop-Sensitivity,Ryu, Sukyoung
+Streams a la carte: Extensible Pipelines with Object Algebras,Biboudis, Aggelos
+Streams a la carte: Extensible Pipelines with Object Algebras,Palladinos, Nick
+Streams a la carte: Extensible Pipelines with Object Algebras,Fourtounis, George
+Streams a la carte: Extensible Pipelines with Object Algebras,Smaragdakis, Yannis
+The Eureka Programming Model for Speculative Task Parallelism,Imam, Shams
+The Eureka Programming Model for Speculative Task Parallelism,Sarkar, Vivek
+The Love/Hate Relationship with the C Preprocessor: An Interview Study,Medeiros, Fl{\'a}vio
+The Love/Hate Relationship with the C Preprocessor: An Interview Study,"K{\""a}stner", Christian
+The Love/Hate Relationship with the C Preprocessor: An Interview Study,Ribeiro, M{\'a}rcio
+The Love/Hate Relationship with the C Preprocessor: An Interview Study,Nadi, Sarah
+The Love/Hate Relationship with the C Preprocessor: An Interview Study,Gheyi, Rohit
+Transparent Object Proxies in JavaScript,Keil, Matthias
+Transparent Object Proxies in JavaScript,Guria, Sankha Narayan
+Transparent Object Proxies in JavaScript,Schlegel, Andreas
+Transparent Object Proxies in JavaScript,Geffken, Manuel
+Transparent Object Proxies in JavaScript,Thiemann, Peter
+TreatJS: Higher-Order Contracts for JavaScripts,Keil, Matthias
+TreatJS: Higher-Order Contracts for JavaScripts,Thiemann, Peter
+Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java,"Sp{\""a}th", Johannes
+Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java,Nguyen Quang Do, Lisa
+Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java,Ali, Karim
+Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java,Bodden, Eric
+C++ const and Immutability: An Empirical Study of Writes-Through-const,Eyolfson, Jon
+C++ const and Immutability: An Empirical Study of Writes-Through-const,Lam, Patrick
+Fine-grained Language Composition: A Case Study,Barrett, Edd
+Fine-grained Language Composition: A Case Study,Bolz, Carl Friedrich
+Fine-grained Language Composition: A Case Study,Diekmann, Lukas
+Fine-grained Language Composition: A Case Study,Tratt, Laurence
+LJGS: Gradual Security Types for Object-Oriented Languages,Fennell, Luminous
+LJGS: Gradual Security Types for Object-Oriented Languages,Thiemann, Peter
+Lightweight session programming in Scala,Scalas, Alceste
+Lightweight session programming in Scala,Yoshida, Nobuko
+Magic with Dynamo  Flexible Cross-Component Linking for Java with Invokedynamic,Jezek, Kamil
+Magic with Dynamo  Flexible Cross-Component Linking for Java with Invokedynamic,Dietrich, Jens
+Making an Embedded DBMS JIT-friendly,Bolz, Carl Friedrich
+Making an Embedded DBMS JIT-friendly,Kurilova, Darya
+Making an Embedded DBMS JIT-friendly,Tratt, Laurence
+Object Inheritance without Classes,Jones, Timothy
+Object Inheritance without Classes,Homer, Michael
+Object Inheritance without Classes,Noble, James
+Object Inheritance without Classes,Bruce, Kim
+One Way to Select Many,"J{\""a}rvi", Jaakko
+One Way to Select Many,Parent, Sean
+Program Tailoring: Slicing by Sequential Criteria,Li, Yue
+Program Tailoring: Slicing by Sequential Criteria,Tan, Tian
+Program Tailoring: Slicing by Sequential Criteria,Zhang, Yifei
+Program Tailoring: Slicing by Sequential Criteria,Xue, Jingling
+Scopes Describe Frames: A Uniform Model for Memory Layout in Dynamic Semantics,Bach Poulsen, Casper
+Scopes Describe Frames: A Uniform Model for Memory Layout in Dynamic Semantics,N{\'e}ron, Pierre
+Scopes Describe Frames: A Uniform Model for Memory Layout in Dynamic Semantics,Tolmach, Andrew
+Scopes Describe Frames: A Uniform Model for Memory Layout in Dynamic Semantics,Visser, Eelco
+Staccato: A Bug Finder for Dynamic Configuration Updates,Toman, John
+Staccato: A Bug Finder for Dynamic Configuration Updates,Grossman, Dan
+Transactional Tasks: Parallelism in Software Transactions,Swalens, Janwillem
+Transactional Tasks: Parallelism in Software Transactions,De Koster, Joeri
+Transactional Tasks: Parallelism in Software Transactions,De Meuter, Wolfgang
+Higher-Order Demand-Driven Program Analysis,Palmer, Zachary
+Higher-Order Demand-Driven Program Analysis,Smith, Scott F
+A graph-based higher-order intermediate representation,Lei{\ss}a, Roland
+A graph-based higher-order intermediate representation,"K{\""o}ster", Marcel
+A graph-based higher-order intermediate representation,Hack, Sebastian
+A parallel abstract interpreter for JavaScript,Dewey, Kyle
+A parallel abstract interpreter for JavaScript,Kashyap, Vineeth
+A parallel abstract interpreter for JavaScript,Hardekopf, Ben
+Locality-centric thread scheduling for bulk-synchronous programming models on CPU architectures,Kim, Hee-Seok
+Locality-centric thread scheduling for bulk-synchronous programming models on CPU architectures,El Hajj, Izzat
+Locality-centric thread scheduling for bulk-synchronous programming models on CPU architectures,Stratton, John
+Locality-centric thread scheduling for bulk-synchronous programming models on CPU architectures,Lumetta, Steven
+Locality-centric thread scheduling for bulk-synchronous programming models on CPU architectures,Hwu, Wen-Mei
+MemorySanitizer: Fast detector of uninitialized memory use in C&#x002B;&#x002B;,Stepanov, Evgeniy
+MemorySanitizer: Fast detector of uninitialized memory use in C&#x002B;&#x002B;,Serebryany, Konstantin
+Optimizing the flash-RAM energy trade-off in deeply embedded systems,Pallister, James
+Optimizing the flash-RAM energy trade-off in deeply embedded systems,Eder, Kerstin
+Optimizing the flash-RAM energy trade-off in deeply embedded systems,Hollis, Simon J
+Scalable conditional induction variables (CIV) analysis,Oancea, Cosmin E
+Scalable conditional induction variables (CIV) analysis,Rauchwerger, Lawrence
+A basic linear algebra compiler for structured matrices,Spampinato, Daniele G
+A basic linear algebra compiler for structured matrices,"P{\""u}schel", Markus
+Atomicity violation checker for task parallel programs,Yoga, Adarsh
+Atomicity violation checker for task parallel programs,Nagarakatte, Santosh
+BlackBox: lightweight security monitoring for COTS binaries,Hawkins, Byron
+BlackBox: lightweight security monitoring for COTS binaries,Demsky, Brian
+BlackBox: lightweight security monitoring for COTS binaries,Taylor, Michael B
+Exploiting mixed SIMD parallelism by reducing data reorganization overhead,Zhou, Hao
+Exploiting mixed SIMD parallelism by reducing data reorganization overhead,Xue, Jingling
+Exploiting recent SIMD architectural advances for irregular applications,Chen, Linchuan
+Exploiting recent SIMD architectural advances for irregular applications,Jiang, Peng
+Exploiting recent SIMD architectural advances for irregular applications,Agrawal, Gagan
+Flexible on-stack replacement in LLVM,D'Elia, Daniele Cono
+Flexible on-stack replacement in LLVM,Demetrescu, Camil
+Inference of peak density of indirect branches to detect ROP attacks,Tymburib{\'a}, Mateus
+Inference of peak density of indirect branches to detect ROP attacks,Moreira, Rubens EA
+Inference of peak density of indirect branches to detect ROP attacks,Quint{\~a}o Pereira, Fernando Magno
+Sparse flow-sensitive pointer analysis for multithreaded programs,Sui, Yulei
+Sparse flow-sensitive pointer analysis for multithreaded programs,Di, Peng
+Sparse flow-sensitive pointer analysis for multithreaded programs,Xue, Jingling
+Symbolic range analysis of pointers,Paisante, Vitor
+Symbolic range analysis of pointers,Maalej, Maroua
+Symbolic range analysis of pointers,Barbosa, Leonardo
+Symbolic range analysis of pointers,Gonnord, Laure
+Symbolic range analysis of pointers,Quint{\~a}o Pereira, Fernando Magno
+Trace-based affine reconstruction of codes,Rodr{\'\i}guez, Gabriel
+Trace-based affine reconstruction of codes,Andi{\'o}n, Jos{\'e} M
+Trace-based affine reconstruction of codes,Kandemir, Mahmut T
+Trace-based affine reconstruction of codes,Touri{\~n}o, Juan
+Validating optimizations of concurrent C/C++ programs,Chakraborty, Soham
+Validating optimizations of concurrent C/C++ programs,Vafeiadis, Viktor
+CoREBench: studying complexity of regression errors,"B{\""o}hme", Marcel
+CoREBench: studying complexity of regression errors,Roychoudhury, Abhik
+Semantic differential repair for input validation and sanitization,Alkhalaf, Muath
+Semantic differential repair for input validation and sanitization,Aydin, Abdulbaki
+Semantic differential repair for input validation and sanitization,Bultan, Tevfik
+Empirically revisiting the test independence assumption,Zhang, Sai
+Empirically revisiting the test independence assumption,Jalali, Darioush
+Empirically revisiting the test independence assumption,Wuttke, Jochen
+Empirically revisiting the test independence assumption,Mu{\c{s}}lu, K{\i}van{\c{c}}
+Empirically revisiting the test independence assumption,Lam, Wing
+Empirically revisiting the test independence assumption,Ernst, Michael D
+Empirically revisiting the test independence assumption,Notkin, David
+A type system for format strings,Weitz, Konstantin
+A type system for format strings,Kim, Gene
+A type system for format strings,Srisakaokul, Siwakorn
+A type system for format strings,Ernst, Michael D
+Covrig: a framework for the analysis of code  test  and coverage evolution in real software,Marinescu, Paul
+Covrig: a framework for the analysis of code  test  and coverage evolution in real software,Hosek, Petr
+Covrig: a framework for the analysis of code  test  and coverage evolution in real software,Cadar, Cristian
+Cross-platform feature matching for web applications,Roy Choudhary, Shauvik
+Cross-platform feature matching for web applications,Prasad, Mukul R
+Cross-platform feature matching for web applications,Orso, Alessandro
+Make it work  make it right  make it fast: building a platform-neutral whole-system dynamic binary analysis platform,Henderson, Andrew
+Make it work  make it right  make it fast: building a platform-neutral whole-system dynamic binary analysis platform,Prakash, Aravind
+Make it work  make it right  make it fast: building a platform-neutral whole-system dynamic binary analysis platform,Yan, Lok Kwong
+Make it work  make it right  make it fast: building a platform-neutral whole-system dynamic binary analysis platform,Hu, Xunchao
+Make it work  make it right  make it fast: building a platform-neutral whole-system dynamic binary analysis platform,Wang, Xujiewen
+Make it work  make it right  make it fast: building a platform-neutral whole-system dynamic binary analysis platform,Zhou, Rundong
+Make it work  make it right  make it fast: building a platform-neutral whole-system dynamic binary analysis platform,Yin, Heng
+Automated software transplantation,Barr, Earl T
+Automated software transplantation,Harman, Mark
+Automated software transplantation,Jia, Yue
+Automated software transplantation,Marginean, Alexandru
+Automated software transplantation,Petke, Justyna
+Automated unit test generation during software development: a controlled experiment and think-aloud observations,Rojas, Jos{\'e} Miguel
+Automated unit test generation during software development: a controlled experiment and think-aloud observations,Fraser, Gordon
+Automated unit test generation during software development: a controlled experiment and think-aloud observations,Arcuri, Andrea
+BrowserAudit: automated testing of browser security features,Hothersall-Thomas, Charlie
+BrowserAudit: automated testing of browser security features,Maffeis, Sergio
+BrowserAudit: automated testing of browser security features,Novakovic, Chris
+Calculation coverage testing in scientific applications,Sato, Yoshiki
+Calculation coverage testing in scientific applications,Hozumi, Shumpei
+Calculation coverage testing in scientific applications,Chiba, Shigeru
+ConcBugAssist: constraint solving for diagnosis and repair of concurrency bugs,Khoshnood, Sepideh
+ConcBugAssist: constraint solving for diagnosis and repair of concurrency bugs,Kusano, Markus
+ConcBugAssist: constraint solving for diagnosis and repair of concurrency bugs,Wang, Chao
+DLint: dynamically checking bad coding practices in JavaScript,Gong, Liang
+DLint: dynamically checking bad coding practices in JavaScript,Pradel, Michael
+DLint: dynamically checking bad coding practices in JavaScript,Sridharan, Manu
+DLint: dynamically checking bad coding practices in JavaScript,Sen, Koushik
+Dynamic detection of inter-application communication vulnerabilities in Android,Hay, Roee
+Dynamic detection of inter-application communication vulnerabilities in Android,Tripp, Omer
+Dynamic detection of inter-application communication vulnerabilities in Android,Pistoia, Marco
+Feedback-controlled random test generation,Yatoh, Kohsuke
+Feedback-controlled random test generation,Sakamoto, Kazunori
+Feedback-controlled random test generation,Ishikawa, Fuyuki
+Feedback-controlled random test generation,Honiden, Shinichi
+Modelgen: mining explicit information flow specifications from concrete executions,Clapp, Lazaro
+Modelgen: mining explicit information flow specifications from concrete executions,Anand, Saswat
+Modelgen: mining explicit information flow specifications from concrete executions,Aiken, Alex
+Optimizing selection of competing features via feedback-directed evolutionary algorithms,Tan, Tian Huat
+Optimizing selection of competing features via feedback-directed evolutionary algorithms,Xue, Yinxing
+Optimizing selection of competing features via feedback-directed evolutionary algorithms,Chen, Manman
+Optimizing selection of competing features via feedback-directed evolutionary algorithms,Sun, Jun
+Optimizing selection of competing features via feedback-directed evolutionary algorithms,Liu, Yang
+Optimizing selection of competing features via feedback-directed evolutionary algorithms,Dong, Jin Song
+Scalable and precise taint analysis for Android,Huang, Wei
+Scalable and precise taint analysis for Android,Dong, Yao
+Scalable and precise taint analysis for Android,Milanova, Ana
+Scalable and precise taint analysis for Android,Dolby, Julian
+Systematic execution of Android test suites in adverse conditions,Adamsen, Christoffer Quist
+Systematic execution of Android test suites in adverse conditions,Mezzetti, Gianluca
+Systematic execution of Android test suites in adverse conditions,M{\o}ller, Anders
+An analysis of patch plausibility and correctness for generate-and-validate patch generation systems,Qi, Zichao
+An analysis of patch plausibility and correctness for generate-and-validate patch generation systems,Long, Fan
+An analysis of patch plausibility and correctness for generate-and-validate patch generation systems,Achour, Sara
+An analysis of patch plausibility and correctness for generate-and-validate patch generation systems,Rinard, Martin
+Analyzing test completeness for dynamic languages,Adamsen, Christoffer Quist
+Analyzing test completeness for dynamic languages,Mezzetti, Gianluca
+Analyzing test completeness for dynamic languages,M{\o}ller, Anders
+Automatic generation of oracles for exceptional behaviors,Goffi, Alberto
+Automatic generation of oracles for exceptional behaviors,Gorla, Alessandra
+Automatic generation of oracles for exceptional behaviors,Ernst, Michael D
+Automatic generation of oracles for exceptional behaviors,Pezz{\`e}, Mauro
+CSNIPPEX: automated synthesis of compilable code snippets from Q&A sites,Terragni, Valerio
+CSNIPPEX: automated synthesis of compilable code snippets from Q&A sites,Liu, Yepang
+CSNIPPEX: automated synthesis of compilable code snippets from Q&A sites,Cheung, Shing-Chi
+EagerMerge: an optimistic technique for efficient points-to analysis,Samrit, Sudhir
+EagerMerge: an optimistic technique for efficient points-to analysis,Nasre, Rupesh
+Efficient flow profiling for detecting performance bugs,Mudduluru, Rashmi
+Efficient flow profiling for detecting performance bugs,Ramanathan, Murali Krishna
+Energy-aware test-suite minimization for Android apps,Jabbarvand, Reyhaneh
+Energy-aware test-suite minimization for Android apps,Sadeghi, Alireza
+Energy-aware test-suite minimization for Android apps,Bagheri, Hamid
+Energy-aware test-suite minimization for Android apps,Malek, Sam
+Toward understanding compiler bugs in GCC and LLVM,Sun, Chengnian
+Toward understanding compiler bugs in GCC and LLVM,Le, Vu
+Toward understanding compiler bugs in GCC and LLVM,Zhang, Qirun
+Toward understanding compiler bugs in GCC and LLVM,Su, Zhendong
+Sparso Context-driven Optimizations of Sparse Linear Algebra,Rong, Hongbo
+Sparso Context-driven Optimizations of Sparse Linear Algebra,Park, Jongsoo
+Sparso Context-driven Optimizations of Sparse Linear Algebra,Xiang, Lingxiang
+Sparso Context-driven Optimizations of Sparse Linear Algebra,Anderson, Todd A
+Sparso Context-driven Optimizations of Sparse Linear Algebra,Smelyanskiy, Mikhail
+Fusion of Parallel Array Operations,Kristensen, Mads RB
+Fusion of Parallel Array Operations,Lund, Simon AF
+Fusion of Parallel Array Operations,Blum, Troels
+Fusion of Parallel Array Operations,Avery, James
+Auto-tuning Spark Big Data Workloads on POWER8 Prediction-Based Dynamic SMT Threading,Jia, Zhen
+Auto-tuning Spark Big Data Workloads on POWER8 Prediction-Based Dynamic SMT Threading,Xue, Chao
+Auto-tuning Spark Big Data Workloads on POWER8 Prediction-Based Dynamic SMT Threading,Chen, Guancheng
+Auto-tuning Spark Big Data Workloads on POWER8 Prediction-Based Dynamic SMT Threading,Zhan, Jianfeng
+Auto-tuning Spark Big Data Workloads on POWER8 Prediction-Based Dynamic SMT Threading,Zhang, Lixin
+Auto-tuning Spark Big Data Workloads on POWER8 Prediction-Based Dynamic SMT Threading,Lin, Yonghua
+Auto-tuning Spark Big Data Workloads on POWER8 Prediction-Based Dynamic SMT Threading,Hofstee, Peter
+Online Scalability Characterization of Data-Parallel Programs on Many Cores,Cho, Younghyun
+Online Scalability Characterization of Data-Parallel Programs on Many Cores,Oh, Surim
+Online Scalability Characterization of Data-Parallel Programs on Many Cores,Egger, Bernhard
+Integrating Algorithmic Parameters into Benchmarking and Design Space Exploration in 3D Scene Understanding,Bodin, Bruno
+Integrating Algorithmic Parameters into Benchmarking and Design Space Exploration in 3D Scene Understanding,Nardi, Luigi
+Integrating Algorithmic Parameters into Benchmarking and Design Space Exploration in 3D Scene Understanding,Zia, M Zeeshan
+Integrating Algorithmic Parameters into Benchmarking and Design Space Exploration in 3D Scene Understanding,Wagstaff, Harry
+Integrating Algorithmic Parameters into Benchmarking and Design Space Exploration in 3D Scene Understanding,Sreekar Shenoy, Govind
+Integrating Algorithmic Parameters into Benchmarking and Design Space Exploration in 3D Scene Understanding,Emani, Murali
+Integrating Algorithmic Parameters into Benchmarking and Design Space Exploration in 3D Scene Understanding,Mawer, John
+Integrating Algorithmic Parameters into Benchmarking and Design Space Exploration in 3D Scene Understanding,Kotselidis, Christos
+Integrating Algorithmic Parameters into Benchmarking and Design Space Exploration in 3D Scene Understanding,Nisbet, Andy
+Integrating Algorithmic Parameters into Benchmarking and Design Space Exploration in 3D Scene Understanding,Lujan, Mikel
+Integrating Algorithmic Parameters into Benchmarking and Design Space Exploration in 3D Scene Understanding,others,
+A Framework for the Derivation of WCET Analyses for Multi-core Processors,Jacobs, Michael
+A Framework for the Derivation of WCET Analyses for Multi-core Processors,Hahn, Sebastian
+A Framework for the Derivation of WCET Analyses for Multi-core Processors,Hack, Sebastian
+Lightweight Real-Time Synchronization under P-EDF on Symmetric and Asymmetric Multiprocessors,Biondi, Alessandro
+Lightweight Real-Time Synchronization under P-EDF on Symmetric and Asymmetric Multiprocessors,Brandenburg," Bj{\""o}rn B"
+Multiprocessor Real-Time Scheduling with Hierarchical Processor Affinities,Bonifaci, Vincenzo
+Multiprocessor Real-Time Scheduling with Hierarchical Processor Affinities,Brandenburg," Bj{\""o}rn"
+Multiprocessor Real-Time Scheduling with Hierarchical Processor Affinities,DAngelo, Gianlorenzo
+Multiprocessor Real-Time Scheduling with Hierarchical Processor Affinities,Marchetti-Spaccamela, Alberto
+PROSA: A Case for Readable Mechanized Schedulability Analysis,Cerqueira, Felipe
+PROSA: A Case for Readable Mechanized Schedulability Analysis,Stutz, Felix
+PROSA: A Case for Readable Mechanized Schedulability Analysis,Brandenburg," Bj{\""o}rn B"
+Scheduling Mixed-Criticality Systems to Guarantee Some Service under All Non-erroneous Behaviors,Baruah, Sanjoy
+Scheduling Mixed-Criticality Systems to Guarantee Some Service under All Non-erroneous Behaviors,Burns, Alan
+Scheduling Mixed-Criticality Systems to Guarantee Some Service under All Non-erroneous Behaviors,Guo, Zhishan
+Poling: SMT Aided Linearizability Proofs,Zhu, He
+Poling: SMT Aided Linearizability Proofs,Petri, Gustavo
+Poling: SMT Aided Linearizability Proofs,Jagannathan, Suresh
+Cutting the Mix,Christ," J{\""u}rgen"
+Cutting the Mix,Hoenicke, Jochen
+Deciding Local Theory Extensions via E-matching,Bansal, Kshitij
+Deciding Local Theory Extensions via E-matching,Reynolds, Andrew
+Deciding Local Theory Extensions via E-matching,King, Tim
+Deciding Local Theory Extensions via E-matching,Barrett, Clark
+Deciding Local Theory Extensions via E-matching,Wies, Thomas
+From Non-preemptive to Preemptive Scheduling Using Synchronization Synthesis,{\v{C}}ern{\`y}, Pavol
+From Non-preemptive to Preemptive Scheduling Using Synchronization Synthesis,Clarke, Edmund M
+From Non-preemptive to Preemptive Scheduling Using Synchronization Synthesis,Henzinger, Thomas A
+From Non-preemptive to Preemptive Scheduling Using Synchronization Synthesis,Radhakrishna, Arjun
+From Non-preemptive to Preemptive Scheduling Using Synchronization Synthesis,Ryzhyk, Leonid
+From Non-preemptive to Preemptive Scheduling Using Synchronization Synthesis,Samanta, Roopsha
+From Non-preemptive to Preemptive Scheduling Using Synchronization Synthesis,Tarrach, Thorsten
+Counterexample-Guided Quantifier Instantiation for Synthesis in SMT,Reynolds, Andrew
+Counterexample-Guided Quantifier Instantiation for Synthesis in SMT,Deters, Morgan
+Counterexample-Guided Quantifier Instantiation for Synthesis in SMT,Kuncak, Viktor
+Counterexample-Guided Quantifier Instantiation for Synthesis in SMT,Tinelli, Cesare
+Counterexample-Guided Quantifier Instantiation for Synthesis in SMT,Barrett, Clark
+Quantifying Conformance Using the Skorokhod Metric,Deshmukh, Jyotirmoy V
+Quantifying Conformance Using the Skorokhod Metric,Majumdar, Rupak
+Quantifying Conformance Using the Skorokhod Metric,Prabhu, Vinayak S
+Adaptive Concretization for Parallel Program Synthesis,Jeon, Jinseong
+Adaptive Concretization for Parallel Program Synthesis,Qiu, Xiaokang
+Adaptive Concretization for Parallel Program Synthesis,Solar-Lezama, Armando
+Adaptive Concretization for Parallel Program Synthesis,Foster, Jeffrey S
+Automatic Completion of Distributed Protocols with Symmetry,Alur, Rajeev
+Automatic Completion of Distributed Protocols with Symmetry,Raghothaman, Mukund
+Automatic Completion of Distributed Protocols with Symmetry,Stergiou, Christos
+Automatic Completion of Distributed Protocols with Symmetry,Tripakis, Stavros
+Automatic Completion of Distributed Protocols with Symmetry,Udupa, Abhishek
+An Axiomatic Specification for Sequential Memory Models,Mansky, William
+An Axiomatic Specification for Sequential Memory Models,Garbuzov, Dmitri
+An Axiomatic Specification for Sequential Memory Models,Zdancewic, Steve
+Automated and Modular Refinement Reasoning for Concurrent Programs,Hawblitzel, Chris
+Automated and Modular Refinement Reasoning for Concurrent Programs,Petrank, Erez
+Automated and Modular Refinement Reasoning for Concurrent Programs,Qadeer, Shaz
+Automated and Modular Refinement Reasoning for Concurrent Programs,Tasiran, Serdar
+Algorithms for Model Checking HyperLTL and HyperCTL_,Finkbeiner, Bernd
+Algorithms for Model Checking HyperLTL and HyperCTL_,Rabe, Markus N
+Algorithms for Model Checking HyperLTL and HyperCTL_,S{\'a}nchez, C{\'e}sar
+Fairness Modulo Theory: A New Approach to LTL Software Model Checking,Dietsch, Daniel
+Fairness Modulo Theory: A New Approach to LTL Software Model Checking,Heizmann, Matthias
+Fairness Modulo Theory: A New Approach to LTL Software Model Checking,Langenfeld, Vincent
+Fairness Modulo Theory: A New Approach to LTL Software Model Checking,Podelski, Andreas
+SMT and POR Beat Counter Abstraction: Parameterized Model Checking of Threshold-Based Distributed Algorithms,Konnov, Igor
+SMT and POR Beat Counter Abstraction: Parameterized Model Checking of Threshold-Based Distributed Algorithms,Veith, Helmut
+SMT and POR Beat Counter Abstraction: Parameterized Model Checking of Threshold-Based Distributed Algorithms,Widder, Josef
+Faster Algorithms for Quantitative Verification in Constant Treewidth Graphs,Chatterjee, Krishnendu
+Faster Algorithms for Quantitative Verification in Constant Treewidth Graphs,Ibsen-Jensen, Rasmus
+Faster Algorithms for Quantitative Verification in Constant Treewidth Graphs,Pavlogiannis, Andreas
+Counterexample Explanation by Learning Small Strategies in Markov Decision Processes,Br{\'a}zdil, Tom{\'a}{\v{s}}
+Counterexample Explanation by Learning Small Strategies in Markov Decision Processes,Chatterjee, Krishnendu
+Counterexample Explanation by Learning Small Strategies in Markov Decision Processes,Chmel{\'\i}k, Martin
+Counterexample Explanation by Learning Small Strategies in Markov Decision Processes,Fellner, Andreas
+Counterexample Explanation by Learning Small Strategies in Markov Decision Processes,K{\v{r}}et{\'\i}nsk{\`y}, Jan
+PROPhESY: A PRObabilistic ParamEter SYnthesis Tool,Dehnert, Christian
+PROPhESY: A PRObabilistic ParamEter SYnthesis Tool,Junges, Sebastian
+PROPhESY: A PRObabilistic ParamEter SYnthesis Tool,Jansen, Nils
+PROPhESY: A PRObabilistic ParamEter SYnthesis Tool,Corzilius, Florian
+PROPhESY: A PRObabilistic ParamEter SYnthesis Tool,Volk, Matthias
+PROPhESY: A PRObabilistic ParamEter SYnthesis Tool,Bruintjes, Harold
+PROPhESY: A PRObabilistic ParamEter SYnthesis Tool,Katoen, Joost-Pieter
+PROPhESY: A PRObabilistic ParamEter SYnthesis Tool,{\'A}brah{\'a}m, Erika
+Effective Search-Space Pruning for Solvers of String Equations Regular Expressions and Length Constraints,Zheng, Yunhui
+Effective Search-Space Pruning for Solvers of String Equations Regular Expressions and Length Constraints,Ganesh, Vijay
+Effective Search-Space Pruning for Solvers of String Equations Regular Expressions and Length Constraints,Subramanian, Sanu
+Effective Search-Space Pruning for Solvers of String Equations Regular Expressions and Length Constraints,Tripp, Omer
+Effective Search-Space Pruning for Solvers of String Equations Regular Expressions and Length Constraints,Dolby, Julian
+Effective Search-Space Pruning for Solvers of String Equations Regular Expressions and Length Constraints,Zhang, Xiangyu
+OpenJDK's Java.utils.Collection.sort() Is Broken: The Good the Bad and the Worst Case,De Gouw, Stijn
+OpenJDK's Java.utils.Collection.sort() Is Broken: The Good the Bad and the Worst Case,Rot, Jurriaan
+OpenJDK's Java.utils.Collection.sort() Is Broken: The Good the Bad and the Worst Case,de Boer, Frank S
+OpenJDK's Java.utils.Collection.sort() Is Broken: The Good the Bad and the Worst Case,Bubel, Richard
+OpenJDK's Java.utils.Collection.sort() Is Broken: The Good the Bad and the Worst Case,"H{\""a}hnle", Reiner
+Learning Commutativity Specifications,Gehr, Timon
+Learning Commutativity Specifications,Dimitrov, Dimitar
+Learning Commutativity Specifications,Vechev, Martin
+Adam: Causality-Based Synthesis of Distributed Systems,Finkbeiner, Bernd
+Adam: Causality-Based Synthesis of Distributed Systems,Gieseking, Manuel
+Adam: Causality-Based Synthesis of Distributed Systems,Olderog," Ernst-R{\""u}diger"
+Alchemist: Learning Guarded Affine Functions,Saha, Shambwaditya
+Alchemist: Learning Guarded Affine Functions,Garg, Pranav
+Alchemist: Learning Guarded Affine Functions,Madhusudan, P
+Norn: An SMT Solver for String Constraints,Abdulla, Parosh Aziz
+Norn: An SMT Solver for String Constraints,Atig, Mohamed Faouzi
+Norn: An SMT Solver for String Constraints,Chen, Yu-Fang
+Norn: An SMT Solver for String Constraints,Hol{\'\i}k, Luk{\'a}{\v{s}}
+Norn: An SMT Solver for String Constraints,Rezine, Ahmed
+Norn: An SMT Solver for String Constraints,"R{\""u}mmer", Philipp
+Norn: An SMT Solver for String Constraints,Stenman, Jari
+PVSio-web 2.0: Joining PVS to HCI,Masci, Paolo
+PVSio-web 2.0: Joining PVS to HCI,Oladimeji, Patrick
+PVSio-web 2.0: Joining PVS to HCI,Zhang, Yi
+PVSio-web 2.0: Joining PVS to HCI,Jones, Paul
+PVSio-web 2.0: Joining PVS to HCI,Curzon, Paul
+PVSio-web 2.0: Joining PVS to HCI,Thimbleby, Harold
+The Hanoi Omega-Automata Format,Babiak, Tom{\'a}{\v{s}}
+The Hanoi Omega-Automata Format,Blahoudek, Franti{\v{s}}ek
+The Hanoi Omega-Automata Format,Duret-Lutz, Alexandre
+The Hanoi Omega-Automata Format,Klein, Joachim
+The Hanoi Omega-Automata Format,K{\v{r}}et{\'\i}nsk{\`y}, Jan
+The Hanoi Omega-Automata Format,"M{\""u}ller", David
+The Hanoi Omega-Automata Format,Parker, David
+The Hanoi Omega-Automata Format,Strej{\v{c}}ek, Jan
+The Open-Source LearnLib,Isberner, Malte
+The Open-Source LearnLib,Howar, Falk
+The Open-Source LearnLib,Steffen, Bernhard
+A Type-Directed Approach to Program Repair,Reinking, Alex
+A Type-Directed Approach to Program Repair,Piskac, Ruzica
+Formal Design and Safety Analysis of AIR6110 Wheel Brake System,Bozzano, Marco
+Formal Design and Safety Analysis of AIR6110 Wheel Brake System,Cimatti, Alessandro
+Formal Design and Safety Analysis of AIR6110 Wheel Brake System,Pires, A Fernandes
+Formal Design and Safety Analysis of AIR6110 Wheel Brake System,Jones, D
+Formal Design and Safety Analysis of AIR6110 Wheel Brake System,Kimberly, G
+Formal Design and Safety Analysis of AIR6110 Wheel Brake System,Petri, T
+Formal Design and Safety Analysis of AIR6110 Wheel Brake System,Robinson, R
+Formal Design and Safety Analysis of AIR6110 Wheel Brake System,Tonetta, Stefano
+Meeting a Powertrain Verification Challenge,Duggirala, Parasara Sridhar
+Meeting a Powertrain Verification Challenge,Fan, Chuchu
+Meeting a Powertrain Verification Challenge,Mitra, Sayan
+Meeting a Powertrain Verification Challenge,Viswanathan, Mahesh
+Property-Directed Inference of Universal Invariants or Proving Their Absence,Karbyshev, Aleksandr
+Property-Directed Inference of Universal Invariants or Proving Their Absence,Bj{\o}rner, Nikolaj
+Property-Directed Inference of Universal Invariants or Proving Their Absence,Itzhaky, Shachar
+Property-Directed Inference of Universal Invariants or Proving Their Absence,Rinetzky, Noam
+Property-Directed Inference of Universal Invariants or Proving Their Absence,Shoham, Sharon
+Boosting k-Induction with Continuously-Refined Invariants,Beyer, Dirk
+Boosting k-Induction with Continuously-Refined Invariants,Dangl, Matthias
+Boosting k-Induction with Continuously-Refined Invariants,Wendler, Philipp
+Markov Chains and Unambiguous Buchi Automata,Baier, Christel
+Markov Chains and Unambiguous Buchi Automata,Kiefer, Stefan
+Markov Chains and Unambiguous Buchi Automata,Klein, Joachim
+Markov Chains and Unambiguous Buchi Automata,"Kl{\""u}ppelholz", Sascha
+Markov Chains and Unambiguous Buchi Automata,"M{\""u}ller", David
+Markov Chains and Unambiguous Buchi Automata,Worrell, James
+A Decision Procedure for Sets Binary Relations and Partial Functions,Cristi{\'a}, Maximiliano
+A Decision Procedure for Sets Binary Relations and Partial Functions,Rossi, Gianfranco
+Precise and Complete Propagation Based Local Search for Satisfiability Modulo Theories,Niemetz, Aina
+Precise and Complete Propagation Based Local Search for Satisfiability Modulo Theories,Preiner, Mathias
+Precise and Complete Propagation Based Local Search for Satisfiability Modulo Theories,Biere, Armin
+String Analysis via Automata Manipulation with Logic Circuit Representation,Wang, Hung-En
+String Analysis via Automata Manipulation with Logic Circuit Representation,Tsai, Tzung-Lin
+String Analysis via Automata Manipulation with Logic Circuit Representation,Lin, Chun-Han
+String Analysis via Automata Manipulation with Logic Circuit Representation,Yu, Fang
+String Analysis via Automata Manipulation with Logic Circuit Representation,Jiang, Jie-Hong R
+Rahft: A Tool for Verifying Horn Clauses Using Abstract Interpretation and Finite Tree Automata,Kafle, Bishoksan
+Rahft: A Tool for Verifying Horn Clauses Using Abstract Interpretation and Finite Tree Automata,Gallagher, John P
+Rahft: A Tool for Verifying Horn Clauses Using Abstract Interpretation and Finite Tree Automata,Morales, Jos{\'e} F
+Proving Parameterized Systems Safe by Generalizing Clausal Proofs of Small Instances,Dooley, Michael
+Proving Parameterized Systems Safe by Generalizing Clausal Proofs of Small Instances,Somenzi, Fabio
+Automated Circular Assume-Guarantee Reasoning with N-way Decomposition and Alphabet Refinement,Elkader, Karam Abd
+Automated Circular Assume-Guarantee Reasoning with N-way Decomposition and Alphabet Refinement,Grumberg, Orna
+Automated Circular Assume-Guarantee Reasoning with N-way Decomposition and Alphabet Refinement,P{\u{a}}s{\u{a}}reanu, Corina S
+Automated Circular Assume-Guarantee Reasoning with N-way Decomposition and Alphabet Refinement,Shoham, Sharon
+Trigger Selection Strategies to Stabilize Program Verifiers,Leino, K Rustan M
+Trigger Selection Strategies to Stabilize Program Verifiers,Pit-Claudel, Cl{\'e}ment
+Satisfiability Modulo Heap-Based Programs,Le, Quang Loc
+Satisfiability Modulo Heap-Based Programs,Sun, Jun
+Satisfiability Modulo Heap-Based Programs,Chin, Wei-Ngan
+Automatic Verification of Iterated Separating Conjunctions Using Symbolic Execution,"M{\""u}ller", Peter
+Automatic Verification of Iterated Separating Conjunctions Using Symbolic Execution,Schwerhoff, Malte
+Automatic Verification of Iterated Separating Conjunctions Using Symbolic Execution,Summers, Alexander J
+From Shape Analysis to Termination Analysis in Linear Time,Manevich, Roman
+From Shape Analysis to Termination Analysis in Linear Time,Dogadov, Boris
+From Shape Analysis to Termination Analysis in Linear Time,Rinetzky, Noam
+RV-Match: Practical Semantics-Based Program Analysis,Guth, Dwight
+RV-Match: Practical Semantics-Based Program Analysis,Hathhorn, Chris
+RV-Match: Practical Semantics-Based Program Analysis,Saxena, Manasvi
+RV-Match: Practical Semantics-Based Program Analysis,Ro{\c{s}}u, Grigore
+Symbolic Optimal Reachability in Weighted Timed Automata,Bouyer, Patricia
+Symbolic Optimal Reachability in Weighted Timed Automata,Colange, Maximilien
+Symbolic Optimal Reachability in Weighted Timed Automata,Markey, Nicolas
+Model Checking at Scale: Automated Air Traffic Control Design Space Exploration,Gario, Marco
+Model Checking at Scale: Automated Air Traffic Control Design Space Exploration,Cimatti, Alessandro
+Model Checking at Scale: Automated Air Traffic Control Design Space Exploration,Mattarei, Cristian
+Model Checking at Scale: Automated Air Traffic Control Design Space Exploration,Tonetta, Stefano
+Model Checking at Scale: Automated Air Traffic Control Design Space Exploration,Rozier, Kristin Yvonne
+A Practical Verification Framework for Preemptive OS Kernels,Xu, Fengwei
+A Practical Verification Framework for Preemptive OS Kernels,Fu, Ming
+A Practical Verification Framework for Preemptive OS Kernels,Feng, Xinyu
+A Practical Verification Framework for Preemptive OS Kernels,Zhang, Xiaoran
+A Practical Verification Framework for Preemptive OS Kernels,Zhang, Hui
+A Practical Verification Framework for Preemptive OS Kernels,Li, Zhaohui
+Probabilistic Automated Language Learning for Configuration Files,Santolucito, Mark
+Probabilistic Automated Language Learning for Configuration Files,Zhai, Ennan
+Probabilistic Automated Language Learning for Configuration Files,Piskac, Ruzica
+Liveness of Randomised Parameterised Systems under Arbitrary Schedulers,Lin, Anthony W
+Liveness of Randomised Parameterised Systems under Arbitrary Schedulers,"R{\""u}mmer", Philipp
+Stateless Model Checking for POWER,Abdulla, Parosh Aziz
+Stateless Model Checking for POWER,Atig, Mohamed Faouzi
+Stateless Model Checking for POWER,Jonsson, Bengt
+Stateless Model Checking for POWER,Leonardsson, Carl
+Array Folds Logic,Daca, Przemys{\l}aw
+Array Folds Logic,Henzinger, Thomas A
+Array Folds Logic,Kupriyanov, Andrey
+Limit-Deterministic Buchi Automata for Linear Temporal Logic,Sickert, Salomon
+Limit-Deterministic Buchi Automata for Linear Temporal Logic,Esparza, Javier
+Limit-Deterministic Buchi Automata for Linear Temporal Logic,Jaax, Stefan
+Limit-Deterministic Buchi Automata for Linear Temporal Logic,K{\v{r}}et{\'\i}nsk{\`y}, Jan
+Synthesis of Fault-Attack Countermeasures for Cryptographic Circuits,Eldib, Hassan
+Synthesis of Fault-Attack Countermeasures for Cryptographic Circuits,Wu, Meng
+Synthesis of Fault-Attack Countermeasures for Cryptographic Circuits,Wang, Chao
+A SAT-Based Counterexample Guided Method for Unbounded Synthesis,Legg, Alexander
+A SAT-Based Counterexample Guided Method for Unbounded Synthesis,Narodytska, Nina
+A SAT-Based Counterexample Guided Method for Unbounded Synthesis,Ryzhyk, Leonid
+Property Directed Equivalence via Abstract Simulation,Fedyukovich, Grigory
+Property Directed Equivalence via Abstract Simulation,Gurfinkel, Arie
+Property Directed Equivalence via Abstract Simulation,Sharygina, Natasha
+BigraphER: Rewriting and Analysis Engine for Bigraphs,Sevegnani, Michele
+BigraphER: Rewriting and Analysis Engine for Bigraphs,Calder, Muffy
+Verification-Aided Debugging: An Interactive Web-Service for Exploring Error Witnesses,Beyer, Dirk
+Verification-Aided Debugging: An Interactive Web-Service for Exploring Error Witnesses,Dangl, Matthias
+The Kind 2 Model Checker,Champion, Adrien
+The Kind 2 Model Checker,Mebsout, Alain
+The Kind 2 Model Checker,Sticksel, Christoph
+The Kind 2 Model Checker,Tinelli, Cesare
