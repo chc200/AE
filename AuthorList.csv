@@ -6,7 +6,7 @@ Hierarchical software landscape visualization for system comprehension: A contro
 Visualizing the Evolution of Working Sets,Minelli, Roberto
 Visualizing the Evolution of Working Sets,Mocci, Andrea
 Visualizing the Evolution of Working Sets,Lanza, Michele
-Jsvee & Kelmu: Creating and Tailoring Program Animations for Computing Education,"Sirki{\""a}", Teemu
+Jsvee & Kelmu: Creating and Tailoring Program Animations for Computing Education,Sirki{\a}, Teemu
 Towards Visualization of Feature Interactions in Software Product Lines,Illescas, Sheny
 Towards Visualization of Feature Interactions in Software Product Lines,Lopez-Herrejon, Roberto E
 Towards Visualization of Feature Interactions in Software Product Lines,Egyed, Alexander
@@ -41,7 +41,7 @@ Performance implications of dynamic memory allocators on transactional memory sy
 Performance implications of dynamic memory allocators on transactional memory systems,Araujo, Guido
 Predicate RCU: an RCU for scalable concurrent updates,Arbel, Maya
 Predicate RCU: an RCU for scalable concurrent updates,Morrison, Adam
-Scalable and efficient implementation of 3d unstructured meshes computation: a case study on matrix assembly,Th{\'e}bault," Lo{\""\i}c"
+Scalable and efficient implementation of 3d unstructured meshes computation: a case study on matrix assembly,Th{\'e}bault, Lo{\\i}c
 Scalable and efficient implementation of 3d unstructured meshes computation: a case study on matrix assembly,Petit, Eric
 Scalable and efficient implementation of 3d unstructured meshes computation: a case study on matrix assembly,Dinh, Quang
 The SprayList: a scalable relaxed priority queue,Alistarh, Dan
@@ -147,10 +147,10 @@ Polymorphic Functions with Set-Theoretic Types Part 2: Local Type Inference and 
 Polymorphic Functions with Set-Theoretic Types Part 2: Local Type Inference and Type Reconstruction,Nguyen, Kim
 Polymorphic Functions with Set-Theoretic Types Part 2: Local Type Inference and Type Reconstruction,Xu, Zhiwu
 Polymorphic Functions with Set-Theoretic Types Part 2: Local Type Inference and Type Reconstruction,Abate, Pietro
-"Predicting Program Properties from ""Big Code""",Raychev, Veselin
-"Predicting Program Properties from ""Big Code""",Vechev, Martin
-"Predicting Program Properties from ""Big Code""",Krause, Andreas
-Programming up to Congruence,"Sj{\""o}berg", Vilhelm
+Predicting Program Properties from Big Code,Raychev, Veselin
+Predicting Program Properties from Big Code,Vechev, Martin
+Predicting Program Properties from Big Code,Krause, Andreas
+Programming up to Congruence,Sj{\o}berg, Vilhelm
 Programming up to Congruence,Weirich, Stephanie
 Quantitative Interprocedural Analysis,Chatterjee, Krishnendu
 Quantitative Interprocedural Analysis,Pavlogiannis, Andreas
@@ -351,9 +351,9 @@ Asynchronous programming  analysis and testing with state machines,Ketema, Jeroe
 Asynchronous programming  analysis and testing with state machines,Lal, Akash
 Asynchronous programming  analysis and testing with state machines,Thomson, Paul
 Making numerical program analysis fast,Singh, Gagandeep
-Making numerical program analysis fast,"P{\""u}schel", Markus
+Making numerical program analysis fast,P{\u}schel, Markus
 Making numerical program analysis fast,Vechev, Martin
-Relatively complete counterexamples for higher-order programs,Nguyš_Ûn, Ph{\'u}c C
+Relatively complete counterexamples for higher-order programs,Nguy__ón, Ph{\'u}c C
 Relatively complete counterexamples for higher-order programs,Van Horn, David
 Concurrency debugging with differential schedule projections,Machado, Nuno
 Concurrency debugging with differential schedule projections,Lucia, Brandon
@@ -586,14 +586,14 @@ Flint fixing linearizability violations,Liu, Peng
 Flint fixing linearizability violations,Tripp, Omer
 Flint fixing linearizability violations,Zhang, Xiangyu
 From object algebras to attribute grammars,Rendel, Tillmann
-From object algebras to attribute grammars,"Brachth{\""a}user", Jonathan Immanuel
+From object algebras to attribute grammars,Brachth{\a}user, Jonathan Immanuel
 From object algebras to attribute grammars,Ostermann, Klaus
 GPS navigating weak memory with ghosts  protocols  and separation,Turon, Aaron
 GPS navigating weak memory with ghosts  protocols  and separation,Vafeiadis, Viktor
 GPS navigating weak memory with ghosts  protocols  and separation,Dreyer, Derek
 i3QL language-integrated live data views,Mitschke, Ralf
 i3QL language-integrated live data views,Erdweg, Sebastian
-i3QL language-integrated live data views,"K{\""o}hler", Mirko
+i3QL language-integrated live data views,K{\o}hler, Mirko
 i3QL language-integrated live data views,Mezini, Mira
 i3QL language-integrated live data views,Salvaneschi, Guido
 Late data layout unifying data representation transformations,Ureche, Vlad
@@ -618,7 +618,7 @@ Smten with satisfiability-based search,Uhler, Richard
 Smten with satisfiability-based search,Dave, Nirav
 Static analysis for independent app developers,Brutschy, Lucas
 Static analysis for independent app developers,Ferrara, Pietro
-Static analysis for independent app developers,"M{\""u}ller", Peter
+Static analysis for independent app developers,M{\u}ller, Peter
 SurveyMan programming and automatically debugging surveys,Tosch, Emma
 SurveyMan programming and automatically debugging surveys,Berger, Emery D
 The hiphop virtual machine,Adams, Keith
@@ -640,7 +640,7 @@ Automating ad hoc data representation transformations,Biboudis, Aggelos
 Automating ad hoc data representation transformations,Smaragdakis, Yannis
 Automating ad hoc data representation transformations,Odersky, Martin
 Automating grammar comparison,Kandhadai Madhavan, Ravichandhran
-Automating grammar comparison,Mayer," Mika{\""e}l"
+Automating grammar comparison,Mayer, Mika{\e}l
 Automating grammar comparison,Gulwani, Sumit
 Automating grammar comparison,Kuncak, Viktor
 AutoMO: automatic inference of memory order parameters for C/C++11,Ou, Peizhao
@@ -734,7 +734,7 @@ An operational semantics for C/C++11 concurrency,Rinard, Martin
 Automated reasoning for web page layout,Panchekha, Pavel
 Automated reasoning for web page layout,Torlak, Emina
 Computing repair alternatives for malformed programs using constraint attribute grammars,Steimann, Friedrich
-Computing repair alternatives for malformed programs using constraint attribute grammars,Hagemann," J{\""o}rg"
+Computing repair alternatives for malformed programs using constraint attribute grammars,Hagemann, J{\o}rg
 Computing repair alternatives for malformed programs using constraint attribute grammars,Ulke, Bastian
 Deriving divide-and-conquer dynamic programming algorithms using solver-aided transformations,Itzhaky, Shachar
 Deriving divide-and-conquer dynamic programming algorithms using solver-aided transformations,Singh, Rohit
@@ -747,7 +747,7 @@ Dynamically diagnosing type errors in unsafe code,Kell, Stephen
 Efficient and thread-safe objects for dynamically-typed languages,Daloze, Benoit
 Efficient and thread-safe objects for dynamically-typed languages,Marr, Stefan
 Efficient and thread-safe objects for dynamically-typed languages,Bonetta, Daniele
-Efficient and thread-safe objects for dynamically-typed languages,"M{\""o}ssenb{\""o}ck", Hanspeter
+Efficient and thread-safe objects for dynamically-typed languages,M{\o}ssenb{\o}ck, Hanspeter
 Gentrification gone too far? affordable 2nd-class values for fun and (co-)effect,Osvald, Leo
 Gentrification gone too far? affordable 2nd-class values for fun and (co-)effect,Essertel, Gr{\'e}gory
 Gentrification gone too far? affordable 2nd-class values for fun and (co-)effect,Wu, Xilun
@@ -776,7 +776,7 @@ Modeling and analysis of remote memory access programming,Dan, Andrei Marian
 Modeling and analysis of remote memory access programming,Lam, Patrick
 Modeling and analysis of remote memory access programming,Hoefler, Torsten
 Modeling and analysis of remote memory access programming,Vechev, Martin
-Parsing with first-class derivatives,"Brachth{\""a}user", Jonathan Immanuel
+Parsing with first-class derivatives,Brachth{\a}user, Jonathan Immanuel
 Parsing with first-class derivatives,Rendel, Tillmann
 Parsing with first-class derivatives,Ostermann, Klaus
 Portable inter-workgroup barrier synchronisation for GPUs,Sorensen, Tyler
@@ -858,7 +858,7 @@ KATCH: high-coverage testing of software patches,Cadar, Cristian
 Mining succinct predicated bug signatures,Sun, Chengnian
 Mining succinct predicated bug signatures,Khoo, Siau-Cheng
 Precision reuse for efficient regression verification,Beyer, Dirk
-Precision reuse for efficient regression verification,"L{\""o}we", Stefan
+Precision reuse for efficient regression verification,L{\o}we, Stefan
 Precision reuse for efficient regression verification,Novikov, Evgeny
 Precision reuse for efficient regression verification,Stahlbauer, Andreas
 Precision reuse for efficient regression verification,Wendler, Philipp
@@ -1046,7 +1046,7 @@ QUIC Graphs: Relational Invariant Generation for Containers,Chang, Bor-Yuh Evan
 QUIC Graphs: Relational Invariant Generation for Containers,Sankaranarayanan, Sriram
 Verification Condition Generation for Permission Logics with Abstract Predicates and Abstraction Functions,Heule, Stefan
 Verification Condition Generation for Permission Logics with Abstract Predicates and Abstraction Functions,Kassios, Ioannis T
-Verification Condition Generation for Permission Logics with Abstract Predicates and Abstraction Functions,"M{\""u}ller", Peter
+Verification Condition Generation for Permission Logics with Abstract Predicates and Abstraction Functions,M{\u}ller, Peter
 Verification Condition Generation for Permission Logics with Abstract Predicates and Abstraction Functions,Summers, Alexander J
 Really Automatic Scalable Object Oriented Reengineering,Trudel, Marco
 Really Automatic Scalable Object Oriented Reengineering,Furia, Carlo A
@@ -1137,7 +1137,7 @@ Streams a la carte: Extensible Pipelines with Object Algebras,Smaragdakis, Yanni
 The Eureka Programming Model for Speculative Task Parallelism,Imam, Shams
 The Eureka Programming Model for Speculative Task Parallelism,Sarkar, Vivek
 The Love/Hate Relationship with the C Preprocessor: An Interview Study,Medeiros, Fl{\'a}vio
-The Love/Hate Relationship with the C Preprocessor: An Interview Study,"K{\""a}stner", Christian
+The Love/Hate Relationship with the C Preprocessor: An Interview Study,K{\a}stner, Christian
 The Love/Hate Relationship with the C Preprocessor: An Interview Study,Ribeiro, M{\'a}rcio
 The Love/Hate Relationship with the C Preprocessor: An Interview Study,Nadi, Sarah
 The Love/Hate Relationship with the C Preprocessor: An Interview Study,Gheyi, Rohit
@@ -1148,7 +1148,7 @@ Transparent Object Proxies in JavaScript,Geffken, Manuel
 Transparent Object Proxies in JavaScript,Thiemann, Peter
 TreatJS: Higher-Order Contracts for JavaScripts,Keil, Matthias
 TreatJS: Higher-Order Contracts for JavaScripts,Thiemann, Peter
-Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java,"Sp{\""a}th", Johannes
+Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java,Sp{\a}th, Johannes
 Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java,Nguyen Quang Do, Lisa
 Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java,Ali, Karim
 Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java,Bodden, Eric
@@ -1171,7 +1171,7 @@ Object Inheritance without Classes,Jones, Timothy
 Object Inheritance without Classes,Homer, Michael
 Object Inheritance without Classes,Noble, James
 Object Inheritance without Classes,Bruce, Kim
-One Way to Select Many,"J{\""a}rvi", Jaakko
+One Way to Select Many,J{\a}rvi, Jaakko
 One Way to Select Many,Parent, Sean
 Program Tailoring: Slicing by Sequential Criteria,Li, Yue
 Program Tailoring: Slicing by Sequential Criteria,Tan, Tian
@@ -1189,7 +1189,7 @@ Transactional Tasks: Parallelism in Software Transactions,De Meuter, Wolfgang
 Higher-Order Demand-Driven Program Analysis,Palmer, Zachary
 Higher-Order Demand-Driven Program Analysis,Smith, Scott F
 A graph-based higher-order intermediate representation,Lei{\ss}a, Roland
-A graph-based higher-order intermediate representation,"K{\""o}ster", Marcel
+A graph-based higher-order intermediate representation,K{\o}ster, Marcel
 A graph-based higher-order intermediate representation,Hack, Sebastian
 A parallel abstract interpreter for JavaScript,Dewey, Kyle
 A parallel abstract interpreter for JavaScript,Kashyap, Vineeth
@@ -1207,7 +1207,7 @@ Optimizing the flash-RAM energy trade-off in deeply embedded systems,Hollis, Sim
 Scalable conditional induction variables (CIV) analysis,Oancea, Cosmin E
 Scalable conditional induction variables (CIV) analysis,Rauchwerger, Lawrence
 A basic linear algebra compiler for structured matrices,Spampinato, Daniele G
-A basic linear algebra compiler for structured matrices,"P{\""u}schel", Markus
+A basic linear algebra compiler for structured matrices,P{\u}schel, Markus
 Atomicity violation checker for task parallel programs,Yoga, Adarsh
 Atomicity violation checker for task parallel programs,Nagarakatte, Santosh
 BlackBox: lightweight security monitoring for COTS binaries,Hawkins, Byron
@@ -1237,7 +1237,7 @@ Trace-based affine reconstruction of codes,Kandemir, Mahmut T
 Trace-based affine reconstruction of codes,Touri{\~n}o, Juan
 Validating optimizations of concurrent C/C++ programs,Chakraborty, Soham
 Validating optimizations of concurrent C/C++ programs,Vafeiadis, Viktor
-CoREBench: studying complexity of regression errors,"B{\""o}hme", Marcel
+CoREBench: studying complexity of regression errors,B{\o}hme, Marcel
 CoREBench: studying complexity of regression errors,Roychoudhury, Abhik
 Semantic differential repair for input validation and sanitization,Alkhalaf, Muath
 Semantic differential repair for input validation and sanitization,Aydin, Abdulbaki
@@ -1370,21 +1370,21 @@ A Framework for the Derivation of WCET Analyses for Multi-core Processors,Jacobs
 A Framework for the Derivation of WCET Analyses for Multi-core Processors,Hahn, Sebastian
 A Framework for the Derivation of WCET Analyses for Multi-core Processors,Hack, Sebastian
 Lightweight Real-Time Synchronization under P-EDF on Symmetric and Asymmetric Multiprocessors,Biondi, Alessandro
-Lightweight Real-Time Synchronization under P-EDF on Symmetric and Asymmetric Multiprocessors,Brandenburg," Bj{\""o}rn B"
+Lightweight Real-Time Synchronization under P-EDF on Symmetric and Asymmetric Multiprocessors,Brandenburg, Bj{\o}rn B
 Multiprocessor Real-Time Scheduling with Hierarchical Processor Affinities,Bonifaci, Vincenzo
-Multiprocessor Real-Time Scheduling with Hierarchical Processor Affinities,Brandenburg," Bj{\""o}rn"
+Multiprocessor Real-Time Scheduling with Hierarchical Processor Affinities,Brandenburg, Bj{\o}rn
 Multiprocessor Real-Time Scheduling with Hierarchical Processor Affinities,DAngelo, Gianlorenzo
 Multiprocessor Real-Time Scheduling with Hierarchical Processor Affinities,Marchetti-Spaccamela, Alberto
 PROSA: A Case for Readable Mechanized Schedulability Analysis,Cerqueira, Felipe
 PROSA: A Case for Readable Mechanized Schedulability Analysis,Stutz, Felix
-PROSA: A Case for Readable Mechanized Schedulability Analysis,Brandenburg," Bj{\""o}rn B"
+PROSA: A Case for Readable Mechanized Schedulability Analysis,Brandenburg, Bj{\o}rn B
 Scheduling Mixed-Criticality Systems to Guarantee Some Service under All Non-erroneous Behaviors,Baruah, Sanjoy
 Scheduling Mixed-Criticality Systems to Guarantee Some Service under All Non-erroneous Behaviors,Burns, Alan
 Scheduling Mixed-Criticality Systems to Guarantee Some Service under All Non-erroneous Behaviors,Guo, Zhishan
 Poling: SMT Aided Linearizability Proofs,Zhu, He
 Poling: SMT Aided Linearizability Proofs,Petri, Gustavo
 Poling: SMT Aided Linearizability Proofs,Jagannathan, Suresh
-Cutting the Mix,Christ," J{\""u}rgen"
+Cutting the Mix,Christ, J{\u}rgen
 Cutting the Mix,Hoenicke, Jochen
 Deciding Local Theory Extensions via E-matching,Bansal, Kshitij
 Deciding Local Theory Extensions via E-matching,Reynolds, Andrew
@@ -1458,13 +1458,13 @@ OpenJDK's Java.utils.Collection.sort() Is Broken: The Good the Bad and the Worst
 OpenJDK's Java.utils.Collection.sort() Is Broken: The Good the Bad and the Worst Case,Rot, Jurriaan
 OpenJDK's Java.utils.Collection.sort() Is Broken: The Good the Bad and the Worst Case,de Boer, Frank S
 OpenJDK's Java.utils.Collection.sort() Is Broken: The Good the Bad and the Worst Case,Bubel, Richard
-OpenJDK's Java.utils.Collection.sort() Is Broken: The Good the Bad and the Worst Case,"H{\""a}hnle", Reiner
+OpenJDK's Java.utils.Collection.sort() Is Broken: The Good the Bad and the Worst Case,H{\a}hnle, Reiner
 Learning Commutativity Specifications,Gehr, Timon
 Learning Commutativity Specifications,Dimitrov, Dimitar
 Learning Commutativity Specifications,Vechev, Martin
 Adam: Causality-Based Synthesis of Distributed Systems,Finkbeiner, Bernd
 Adam: Causality-Based Synthesis of Distributed Systems,Gieseking, Manuel
-Adam: Causality-Based Synthesis of Distributed Systems,Olderog," Ernst-R{\""u}diger"
+Adam: Causality-Based Synthesis of Distributed Systems,Olderog, Ernst-R{\u}diger
 Alchemist: Learning Guarded Affine Functions,Saha, Shambwaditya
 Alchemist: Learning Guarded Affine Functions,Garg, Pranav
 Alchemist: Learning Guarded Affine Functions,Madhusudan, P
@@ -1473,7 +1473,7 @@ Norn: An SMT Solver for String Constraints,Atig, Mohamed Faouzi
 Norn: An SMT Solver for String Constraints,Chen, Yu-Fang
 Norn: An SMT Solver for String Constraints,Hol{\'\i}k, Luk{\'a}{\v{s}}
 Norn: An SMT Solver for String Constraints,Rezine, Ahmed
-Norn: An SMT Solver for String Constraints,"R{\""u}mmer", Philipp
+Norn: An SMT Solver for String Constraints,R{\u}mmer, Philipp
 Norn: An SMT Solver for String Constraints,Stenman, Jari
 PVSio-web 2.0: Joining PVS to HCI,Masci, Paolo
 PVSio-web 2.0: Joining PVS to HCI,Oladimeji, Patrick
@@ -1486,7 +1486,7 @@ The Hanoi Omega-Automata Format,Blahoudek, Franti{\v{s}}ek
 The Hanoi Omega-Automata Format,Duret-Lutz, Alexandre
 The Hanoi Omega-Automata Format,Klein, Joachim
 The Hanoi Omega-Automata Format,K{\v{r}}et{\'\i}nsk{\`y}, Jan
-The Hanoi Omega-Automata Format,"M{\""u}ller", David
+The Hanoi Omega-Automata Format,M{\u}ller, David
 The Hanoi Omega-Automata Format,Parker, David
 The Hanoi Omega-Automata Format,Strej{\v{c}}ek, Jan
 The Open-Source LearnLib,Isberner, Malte
@@ -1517,8 +1517,8 @@ Boosting k-Induction with Continuously-Refined Invariants,Wendler, Philipp
 Markov Chains and Unambiguous Buchi Automata,Baier, Christel
 Markov Chains and Unambiguous Buchi Automata,Kiefer, Stefan
 Markov Chains and Unambiguous Buchi Automata,Klein, Joachim
-Markov Chains and Unambiguous Buchi Automata,"Kl{\""u}ppelholz", Sascha
-Markov Chains and Unambiguous Buchi Automata,"M{\""u}ller", David
+Markov Chains and Unambiguous Buchi Automata,Kl{\u}ppelholz, Sascha
+Markov Chains and Unambiguous Buchi Automata,M{\u}ller, David
 Markov Chains and Unambiguous Buchi Automata,Worrell, James
 A Decision Procedure for Sets Binary Relations and Partial Functions,Cristi{\'a}, Maximiliano
 A Decision Procedure for Sets Binary Relations and Partial Functions,Rossi, Gianfranco
@@ -1544,7 +1544,7 @@ Trigger Selection Strategies to Stabilize Program Verifiers,Pit-Claudel, Cl{\'e}
 Satisfiability Modulo Heap-Based Programs,Le, Quang Loc
 Satisfiability Modulo Heap-Based Programs,Sun, Jun
 Satisfiability Modulo Heap-Based Programs,Chin, Wei-Ngan
-Automatic Verification of Iterated Separating Conjunctions Using Symbolic Execution,"M{\""u}ller", Peter
+Automatic Verification of Iterated Separating Conjunctions Using Symbolic Execution,M{\u}ller, Peter
 Automatic Verification of Iterated Separating Conjunctions Using Symbolic Execution,Schwerhoff, Malte
 Automatic Verification of Iterated Separating Conjunctions Using Symbolic Execution,Summers, Alexander J
 From Shape Analysis to Termination Analysis in Linear Time,Manevich, Roman
@@ -1572,7 +1572,7 @@ Probabilistic Automated Language Learning for Configuration Files,Santolucito, M
 Probabilistic Automated Language Learning for Configuration Files,Zhai, Ennan
 Probabilistic Automated Language Learning for Configuration Files,Piskac, Ruzica
 Liveness of Randomised Parameterised Systems under Arbitrary Schedulers,Lin, Anthony W
-Liveness of Randomised Parameterised Systems under Arbitrary Schedulers,"R{\""u}mmer", Philipp
+Liveness of Randomised Parameterised Systems under Arbitrary Schedulers,R{\u}mmer, Philipp
 Stateless Model Checking for POWER,Abdulla, Parosh Aziz
 Stateless Model Checking for POWER,Atig, Mohamed Faouzi
 Stateless Model Checking for POWER,Jonsson, Bengt
